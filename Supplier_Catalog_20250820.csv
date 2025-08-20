@@ -1,0 +1,1001 @@
+SupplierCode|ProductCode|SupplierPartNumber|ProductName|Description|UnitPrice|Currency|UOM|LeadTimeDays|MinOrderQty|PackSize|EffectiveDate|ExpirationDate|Status
+SUP041|PROD000001|SP-TON-BLA-5506|Drum Unit|High quality drum unit compatible with multiple printer models|71.61|USD|GAL|54|50|1|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000002|SP-INK-BLA-2535|Drum Unit|High quality drum unit compatible with multiple printer models|74.39|USD|LT|19|100|50|2025-08-20|2025-12-31|Inactive
+SUP015|PROD000003|SP-MEM-TRI-1106|Print Head|High quality print head compatible with multiple printer models|211.24|CAD|KG|16|5|10|2025-08-20|2025-12-31|Active
+SUP006|PROD000004|SP-PAP-CYA-6881|Transfer Belt|High quality transfer belt compatible with multiple printer models|183.49|USD|GAL|36|50|1|2025-08-20|2025-12-31|Inactive
+SUP006|PROD000005|SP-CIR-TRI-6925|Motor|High quality motor compatible with multiple printer models|62.52|USD|EA|49|5|10|2025-08-20|2025-12-31|Active
+SUP015|PROD000006|SP-TON-LIG-5554|Memory|High quality memory compatible with multiple printer models|192.88|CAD|SET|30|10|5|2025-08-20|2025-12-31|Discontinued
+SUP018|PROD000007|SP-TON-MAG-9751|Drum Unit|High quality drum unit compatible with multiple printer models|54.03|GBP|KG|47|100|50|2025-08-20|2025-12-31|Active
+SUP044|PROD000008|SP-TRA-BLA-4752|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|123.93|USD|SET|43|100|10|2025-08-20|2025-12-31|Active
+SUP042|PROD000009|SP-MEM-LIG-8517|Print Head|High quality print head compatible with multiple printer models|83.86|EUR|GAL|42|50|10|2025-08-20|2025-12-31|Discontinued
+SUP038|PROD000010|SP-PAP-LIG-6930|Drum Unit|High quality drum unit compatible with multiple printer models|299.2|EUR|LT|38|1|1|2025-08-20|2025-12-31|Active
+SUP010|PROD000011|SP-PRI-LIG-2040|Paper Tray|High quality paper tray compatible with multiple printer models|118.19|GBP|LT|23|50|1|2025-08-20|2025-12-31|Discontinued
+SUP047|PROD000012|SP-TON-TRI-6573|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|133.81|GBP|EA|53|100|10|2025-08-20|2025-12-31|Discontinued
+SUP049|PROD000013|SP-PRI-CYA-5889|Circuit Board|High quality circuit board compatible with multiple printer models|185.03|EUR|KG|55|5|50|2025-08-20|2025-12-31|Discontinued
+SUP001|PROD000014|SP-MOT-PHO-9005|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|279.14|CAD|SET|10|5|50|2025-08-20|2025-12-31|Active
+SUP006|PROD000015|SP-MEM-CYA-9727|Print Head|High quality print head compatible with multiple printer models|43.74|GBP|LT|17|10|50|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000016|SP-DRU-YEL-6107|Paper Tray|High quality paper tray compatible with multiple printer models|298.56|CAD|LB|40|25|1|2025-08-20|2025-12-31|Active
+SUP015|PROD000017|SP-TON-PHO-1344|Motor|High quality motor compatible with multiple printer models|168.84|EUR|EA|11|100|1|2025-08-20|2025-12-31|Active
+SUP005|PROD000018|SP-INK-PHO-2160|Circuit Board|High quality circuit board compatible with multiple printer models|75.96|GBP|SET|41|5|50|2025-08-20|2025-12-31|Discontinued
+SUP031|PROD000019|SP-DRU-LIG-7669|Drum Unit|High quality drum unit compatible with multiple printer models|33.72|GBP|KG|34|25|25|2025-08-20|2025-12-31|Discontinued
+SUP004|PROD000020|SP-TON-BLA-7596|Transfer Belt|High quality transfer belt compatible with multiple printer models|241.36|USD|SET|19|5|50|2025-08-20|2025-12-31|Inactive
+SUP009|PROD000021|SP-PAP-MAG-5563|Memory|High quality memory compatible with multiple printer models|79.43|USD|LB|58|50|1|2025-08-20|2025-12-31|Active
+SUP042|PROD000022|SP-CIR-BLA-2528|Drum Unit|High quality drum unit compatible with multiple printer models|54.89|GBP|LB|20|25|1|2025-08-20|2025-12-31|Active
+SUP025|PROD000023|SP-INK-LIG-5345|Memory|High quality memory compatible with multiple printer models|89.85|GBP|SET|19|10|5|2025-08-20|2025-12-31|Active
+SUP038|PROD000024|SP-CIR-BLA-6138|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|177.74|EUR|EA|39|1|5|2025-08-20|2025-12-31|Active
+SUP039|PROD000025|SP-TON-YEL-7615|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|176.19|USD|LT|12|25|50|2025-08-20|2025-12-31|Discontinued
+SUP034|PROD000026|SP-TRA-TRI-4346|Transfer Belt|High quality transfer belt compatible with multiple printer models|76.16|GBP|SET|49|100|10|2025-08-20|2025-12-31|Inactive
+SUP021|PROD000027|SP-TON-BLA-8508|Motor|High quality motor compatible with multiple printer models|299.54|USD|EA|41|5|50|2025-08-20|2025-12-31|Inactive
+SUP009|PROD000028|SP-TRA-CYA-5002|Transfer Belt|High quality transfer belt compatible with multiple printer models|89.78|GBP|LT|52|10|50|2025-08-20|2025-12-31|Discontinued
+SUP034|PROD000029|SP-INK-TRI-2697|Print Head|High quality print head compatible with multiple printer models|83.74|USD|GAL|42|5|10|2025-08-20|2025-12-31|Inactive
+SUP039|PROD000030|SP-DRU-PHO-4335|Fuser|High quality fuser compatible with multiple printer models|154.58|CAD|EA|12|100|25|2025-08-20|2025-12-31|Inactive
+SUP003|PROD000031|SP-INK-PHO-3143|Fuser|High quality fuser compatible with multiple printer models|53.5|GBP|LT|52|25|50|2025-08-20|2025-12-31|Active
+SUP008|PROD000032|SP-TON-MAG-9938|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|177.25|EUR|LB|15|1|10|2025-08-20|2025-12-31|Inactive
+SUP003|PROD000033|SP-TRA-YEL-5088|Photo Black Toner Cartridge|High quality photo black toner cartridge compatible with multiple printer models|235.34|GBP|LT|54|5|5|2025-08-20|2025-12-31|Active
+SUP012|PROD000034|SP-PAP-BLA-3938|Transfer Belt|High quality transfer belt compatible with multiple printer models|236.01|GBP|GAL|54|5|10|2025-08-20|2025-12-31|Active
+SUP045|PROD000035|SP-TON-LIG-1634|Memory|High quality memory compatible with multiple printer models|71.39|GBP|KG|26|5|5|2025-08-20|2025-12-31|Active
+SUP043|PROD000036|SP-DRU-LIG-6378|Fuser|High quality fuser compatible with multiple printer models|260.11|CAD|KG|48|50|25|2025-08-20|2025-12-31|Discontinued
+SUP035|PROD000037|SP-TRA-BLA-2889|Fuser|High quality fuser compatible with multiple printer models|58.49|CAD|EA|13|50|25|2025-08-20|2025-12-31|Inactive
+SUP047|PROD000038|SP-TRA-LIG-9379|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|270.44|EUR|KG|9|100|25|2025-08-20|2025-12-31|Active
+SUP034|PROD000039|SP-CIR-YEL-6967|Paper Tray|High quality paper tray compatible with multiple printer models|26.56|CAD|LT|27|100|1|2025-08-20|2025-12-31|Discontinued
+SUP020|PROD000040|SP-CIR-TRI-7691|Transfer Belt|High quality transfer belt compatible with multiple printer models|124.3|CAD|LT|15|5|25|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000041|SP-PRI-TRI-7653|Circuit Board|High quality circuit board compatible with multiple printer models|251.11|CAD|KG|20|25|50|2025-08-20|2025-12-31|Discontinued
+SUP042|PROD000042|SP-TRA-LIG-8238|Memory|High quality memory compatible with multiple printer models|204.62|GBP|GAL|17|100|1|2025-08-20|2025-12-31|Inactive
+SUP033|PROD000043|SP-MOT-PHO-2530|Drum Unit|High quality drum unit compatible with multiple printer models|203.79|EUR|SET|16|1|1|2025-08-20|2025-12-31|Active
+SUP031|PROD000044|SP-MOT-CYA-8461|Paper Tray|High quality paper tray compatible with multiple printer models|266.51|EUR|GAL|51|25|25|2025-08-20|2025-12-31|Inactive
+SUP016|PROD000045|SP-PRI-BLA-2746|Paper Tray|High quality paper tray compatible with multiple printer models|70.33|GBP|EA|42|5|1|2025-08-20|2025-12-31|Inactive
+SUP009|PROD000046|SP-MEM-PHO-8251|Motor|High quality motor compatible with multiple printer models|245.6|GBP|LT|35|5|25|2025-08-20|2025-12-31|Inactive
+SUP017|PROD000047|SP-DRU-TRI-9540|Memory|High quality memory compatible with multiple printer models|190.25|CAD|LB|11|100|10|2025-08-20|2025-12-31|Active
+SUP018|PROD000048|SP-TRA-PHO-9849|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|50.33|GBP|GAL|16|100|5|2025-08-20|2025-12-31|Active
+SUP027|PROD000049|SP-PAP-PHO-9890|Memory|High quality memory compatible with multiple printer models|128.23|EUR|LB|31|50|1|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000050|SP-MEM-BLA-6763|Fuser|High quality fuser compatible with multiple printer models|227.51|GBP|LT|54|100|50|2025-08-20|2025-12-31|Discontinued
+SUP015|PROD000051|SP-MEM-YEL-5471|Paper Tray|High quality paper tray compatible with multiple printer models|148.77|GBP|KG|49|100|25|2025-08-20|2025-12-31|Discontinued
+SUP011|PROD000052|SP-MEM-MAG-9751|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|180.01|USD|EA|48|25|5|2025-08-20|2025-12-31|Inactive
+SUP012|PROD000053|SP-INK-TRI-7211|Transfer Belt|High quality transfer belt compatible with multiple printer models|68.22|CAD|KG|55|25|10|2025-08-20|2025-12-31|Inactive
+SUP017|PROD000054|SP-TON-LIG-1317|Circuit Board|High quality circuit board compatible with multiple printer models|21.3|CAD|SET|48|1|1|2025-08-20|2025-12-31|Active
+SUP016|PROD000055|SP-DRU-BLA-3496|Drum Unit|High quality drum unit compatible with multiple printer models|43.1|USD|LT|20|25|10|2025-08-20|2025-12-31|Inactive
+SUP011|PROD000056|SP-MOT-CYA-3683|Fuser|High quality fuser compatible with multiple printer models|37.77|USD|KG|43|100|25|2025-08-20|2025-12-31|Inactive
+SUP046|PROD000057|SP-DRU-CYA-4978|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|255.98|USD|LT|57|1|10|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000058|SP-TRA-CYA-9289|Transfer Belt|High quality transfer belt compatible with multiple printer models|9.71|GBP|LB|13|25|10|2025-08-20|2025-12-31|Discontinued
+SUP030|PROD000059|SP-PRI-LIG-3885|Circuit Board|High quality circuit board compatible with multiple printer models|289.84|CAD|LT|58|50|25|2025-08-20|2025-12-31|Inactive
+SUP028|PROD000060|SP-MOT-TRI-6280|Drum Unit|High quality drum unit compatible with multiple printer models|250.22|USD|KG|35|5|25|2025-08-20|2025-12-31|Discontinued
+SUP040|PROD000061|SP-PAP-PHO-1470|Memory|High quality memory compatible with multiple printer models|256.17|EUR|LB|20|10|10|2025-08-20|2025-12-31|Inactive
+SUP018|PROD000062|SP-MOT-TRI-1166|Circuit Board|High quality circuit board compatible with multiple printer models|284.72|USD|SET|53|25|25|2025-08-20|2025-12-31|Discontinued
+SUP049|PROD000063|SP-DRU-LIG-9041|Memory|High quality memory compatible with multiple printer models|239.11|USD|KG|21|25|5|2025-08-20|2025-12-31|Inactive
+SUP043|PROD000064|SP-MOT-PHO-8753|Circuit Board|High quality circuit board compatible with multiple printer models|162.08|GBP|GAL|42|10|10|2025-08-20|2025-12-31|Discontinued
+SUP030|PROD000065|SP-FUS-TRI-5118|Drum Unit|High quality drum unit compatible with multiple printer models|41.46|EUR|KG|14|100|50|2025-08-20|2025-12-31|Discontinued
+SUP012|PROD000066|SP-DRU-YEL-8933|Fuser|High quality fuser compatible with multiple printer models|219.02|CAD|EA|60|5|10|2025-08-20|2025-12-31|Active
+SUP024|PROD000067|SP-PRI-TRI-1231|Circuit Board|High quality circuit board compatible with multiple printer models|43.21|USD|EA|42|10|5|2025-08-20|2025-12-31|Discontinued
+SUP049|PROD000068|SP-MEM-CYA-1200|Motor|High quality motor compatible with multiple printer models|89.59|GBP|LB|28|5|1|2025-08-20|2025-12-31|Inactive
+SUP031|PROD000069|SP-TON-CYA-7565|Memory|High quality memory compatible with multiple printer models|27.77|USD|SET|16|50|10|2025-08-20|2025-12-31|Active
+SUP016|PROD000070|SP-TON-LIG-4697|Circuit Board|High quality circuit board compatible with multiple printer models|117.82|GBP|KG|44|25|10|2025-08-20|2025-12-31|Discontinued
+SUP040|PROD000071|SP-INK-CYA-4404|Drum Unit|High quality drum unit compatible with multiple printer models|83.8|USD|SET|22|5|50|2025-08-20|2025-12-31|Active
+SUP011|PROD000072|SP-INK-LIG-8381|Motor|High quality motor compatible with multiple printer models|144.14|USD|SET|25|100|10|2025-08-20|2025-12-31|Discontinued
+SUP030|PROD000073|SP-TON-YEL-5334|Motor|High quality motor compatible with multiple printer models|200.38|EUR|LB|14|50|5|2025-08-20|2025-12-31|Discontinued
+SUP010|PROD000074|SP-FUS-MAG-2169|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|239.02|CAD|LB|14|25|10|2025-08-20|2025-12-31|Discontinued
+SUP026|PROD000075|SP-FUS-LIG-8172|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|267.48|CAD|LT|23|1|1|2025-08-20|2025-12-31|Active
+SUP044|PROD000076|SP-MOT-BLA-5415|Motor|High quality motor compatible with multiple printer models|17.82|EUR|LB|40|100|25|2025-08-20|2025-12-31|Inactive
+SUP012|PROD000077|SP-MOT-LIG-9056|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|108.29|CAD|KG|49|1|5|2025-08-20|2025-12-31|Inactive
+SUP027|PROD000078|SP-MEM-TRI-7561|Circuit Board|High quality circuit board compatible with multiple printer models|16.78|USD|KG|23|10|1|2025-08-20|2025-12-31|Inactive
+SUP033|PROD000079|SP-INK-LIG-7770|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|158.41|GBP|GAL|35|1|5|2025-08-20|2025-12-31|Inactive
+SUP036|PROD000080|SP-PRI-TRI-8178|Memory|High quality memory compatible with multiple printer models|41.69|EUR|GAL|17|10|50|2025-08-20|2025-12-31|Active
+SUP036|PROD000081|SP-PAP-CYA-4681|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|284.43|EUR|LB|52|10|50|2025-08-20|2025-12-31|Discontinued
+SUP018|PROD000082|SP-PAP-LIG-8736|Drum Unit|High quality drum unit compatible with multiple printer models|140.29|EUR|LB|19|50|50|2025-08-20|2025-12-31|Discontinued
+SUP009|PROD000083|SP-TON-TRI-7798|Transfer Belt|High quality transfer belt compatible with multiple printer models|280.66|CAD|EA|25|100|10|2025-08-20|2025-12-31|Discontinued
+SUP038|PROD000084|SP-MEM-MAG-8316|Circuit Board|High quality circuit board compatible with multiple printer models|148.39|CAD|LT|55|50|25|2025-08-20|2025-12-31|Inactive
+SUP021|PROD000085|SP-DRU-YEL-7274|Drum Unit|High quality drum unit compatible with multiple printer models|257.66|GBP|EA|27|100|25|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000086|SP-PAP-MAG-9115|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|153.66|CAD|EA|35|1|50|2025-08-20|2025-12-31|Inactive
+SUP001|PROD000087|SP-PRI-LIG-3529|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|235.76|CAD|KG|46|100|25|2025-08-20|2025-12-31|Discontinued
+SUP006|PROD000088|SP-TRA-LIG-6188|Memory|High quality memory compatible with multiple printer models|262.47|USD|LT|11|5|10|2025-08-20|2025-12-31|Active
+SUP048|PROD000089|SP-TON-LIG-2612|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|54.9|CAD|EA|9|10|1|2025-08-20|2025-12-31|Inactive
+SUP023|PROD000090|SP-TRA-LIG-3385|Drum Unit|High quality drum unit compatible with multiple printer models|162.15|EUR|SET|18|1|50|2025-08-20|2025-12-31|Inactive
+SUP040|PROD000091|SP-DRU-LIG-3344|Drum Unit|High quality drum unit compatible with multiple printer models|141.57|CAD|LB|23|100|1|2025-08-20|2025-12-31|Inactive
+SUP019|PROD000092|SP-CIR-MAG-2210|Memory|High quality memory compatible with multiple printer models|283.89|CAD|GAL|34|100|10|2025-08-20|2025-12-31|Inactive
+SUP020|PROD000093|SP-DRU-LIG-8916|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|118.11|CAD|LT|25|100|10|2025-08-20|2025-12-31|Active
+SUP043|PROD000094|SP-PAP-TRI-1132|Motor|High quality motor compatible with multiple printer models|260.32|USD|LT|54|25|10|2025-08-20|2025-12-31|Active
+SUP039|PROD000095|SP-TRA-YEL-4115|Motor|High quality motor compatible with multiple printer models|79.67|EUR|GAL|13|100|1|2025-08-20|2025-12-31|Inactive
+SUP029|PROD000096|SP-INK-PHO-3153|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|102.05|GBP|SET|19|5|50|2025-08-20|2025-12-31|Inactive
+SUP034|PROD000097|SP-CIR-TRI-3695|Fuser|High quality fuser compatible with multiple printer models|274.72|GBP|KG|54|10|1|2025-08-20|2025-12-31|Inactive
+SUP005|PROD000098|SP-PRI-YEL-7511|Circuit Board|High quality circuit board compatible with multiple printer models|113.53|GBP|EA|23|50|1|2025-08-20|2025-12-31|Inactive
+SUP024|PROD000099|SP-FUS-LIG-7086|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|144.6|CAD|LT|21|100|1|2025-08-20|2025-12-31|Discontinued
+SUP030|PROD000100|SP-FUS-LIG-2911|Print Head|High quality print head compatible with multiple printer models|19.32|USD|KG|38|1|1|2025-08-20|2025-12-31|Active
+SUP035|PROD000101|SP-PRI-LIG-8432|Transfer Belt|High quality transfer belt compatible with multiple printer models|203.11|GBP|LT|54|100|5|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000102|SP-TON-LIG-7686|Fuser|High quality fuser compatible with multiple printer models|15.61|CAD|SET|35|25|5|2025-08-20|2025-12-31|Inactive
+SUP007|PROD000103|SP-TRA-PHO-1992|Paper Tray|High quality paper tray compatible with multiple printer models|87.1|USD|LB|12|100|5|2025-08-20|2025-12-31|Discontinued
+SUP041|PROD000104|SP-MOT-BLA-1828|Transfer Belt|High quality transfer belt compatible with multiple printer models|77.6|EUR|LT|20|1|50|2025-08-20|2025-12-31|Active
+SUP038|PROD000105|SP-DRU-YEL-6383|Print Head|High quality print head compatible with multiple printer models|237.85|USD|KG|16|5|50|2025-08-20|2025-12-31|Inactive
+SUP012|PROD000106|SP-TON-BLA-3159|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|238.25|EUR|LT|27|1|5|2025-08-20|2025-12-31|Inactive
+SUP004|PROD000107|SP-PRI-LIG-9619|Cyan Toner Cartridge|High quality cyan toner cartridge compatible with multiple printer models|146.01|CAD|LT|44|1|25|2025-08-20|2025-12-31|Discontinued
+SUP015|PROD000108|SP-MOT-BLA-9543|Fuser|High quality fuser compatible with multiple printer models|140.65|USD|EA|37|25|25|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000109|SP-MEM-LIG-2204|Photo Black Toner Cartridge|High quality photo black toner cartridge compatible with multiple printer models|184.83|USD|SET|24|50|50|2025-08-20|2025-12-31|Discontinued
+SUP046|PROD000110|SP-TRA-LIG-9692|Fuser|High quality fuser compatible with multiple printer models|139.38|GBP|EA|57|100|1|2025-08-20|2025-12-31|Discontinued
+SUP042|PROD000111|SP-CIR-YEL-8046|Memory|High quality memory compatible with multiple printer models|267.09|GBP|KG|59|25|25|2025-08-20|2025-12-31|Inactive
+SUP047|PROD000112|SP-TON-PHO-7992|Transfer Belt|High quality transfer belt compatible with multiple printer models|201.53|CAD|SET|50|25|1|2025-08-20|2025-12-31|Active
+SUP006|PROD000113|SP-TON-LIG-2582|Transfer Belt|High quality transfer belt compatible with multiple printer models|244.65|USD|LT|42|50|10|2025-08-20|2025-12-31|Discontinued
+SUP008|PROD000114|SP-PAP-PHO-7929|Tri-Color Ink Cartridge|High quality tri-color ink cartridge compatible with multiple printer models|182.51|CAD|EA|43|50|5|2025-08-20|2025-12-31|Active
+SUP043|PROD000115|SP-MEM-YEL-2773|Transfer Belt|High quality transfer belt compatible with multiple printer models|254.53|CAD|EA|55|10|50|2025-08-20|2025-12-31|Active
+SUP028|PROD000116|SP-CIR-BLA-5381|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|86.33|CAD|KG|29|1|5|2025-08-20|2025-12-31|Active
+SUP037|PROD000117|SP-PAP-CYA-3324|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|225.35|EUR|LB|33|25|10|2025-08-20|2025-12-31|Active
+SUP024|PROD000118|SP-FUS-PHO-2391|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|52.27|USD|GAL|12|10|25|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000119|SP-MEM-LIG-7785|Fuser|High quality fuser compatible with multiple printer models|69.37|USD|KG|34|1|10|2025-08-20|2025-12-31|Discontinued
+SUP044|PROD000120|SP-MOT-LIG-9633|Fuser|High quality fuser compatible with multiple printer models|19.34|GBP|LT|10|1|5|2025-08-20|2025-12-31|Inactive
+SUP014|PROD000121|SP-PRI-TRI-5742|Transfer Belt|High quality transfer belt compatible with multiple printer models|41.27|GBP|GAL|34|5|5|2025-08-20|2025-12-31|Inactive
+SUP035|PROD000122|SP-DRU-PHO-2180|Paper Tray|High quality paper tray compatible with multiple printer models|259.35|USD|LB|8|25|1|2025-08-20|2025-12-31|Inactive
+SUP037|PROD000123|SP-PAP-LIG-7843|Fuser|High quality fuser compatible with multiple printer models|39.85|USD|KG|17|50|25|2025-08-20|2025-12-31|Discontinued
+SUP024|PROD000124|SP-TON-LIG-2734|Drum Unit|High quality drum unit compatible with multiple printer models|134.08|GBP|LT|12|25|10|2025-08-20|2025-12-31|Discontinued
+SUP022|PROD000125|SP-DRU-PHO-3754|Cyan Toner Cartridge|High quality cyan toner cartridge compatible with multiple printer models|161.99|EUR|KG|29|100|5|2025-08-20|2025-12-31|Active
+SUP007|PROD000126|SP-PRI-TRI-4232|Print Head|High quality print head compatible with multiple printer models|183.1|USD|SET|56|100|25|2025-08-20|2025-12-31|Inactive
+SUP049|PROD000127|SP-MOT-LIG-6295|Transfer Belt|High quality transfer belt compatible with multiple printer models|50.37|USD|LB|35|100|10|2025-08-20|2025-12-31|Inactive
+SUP038|PROD000128|SP-INK-PHO-9312|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|141.74|USD|EA|30|10|1|2025-08-20|2025-12-31|Discontinued
+SUP006|PROD000129|SP-MOT-LIG-8581|Motor|High quality motor compatible with multiple printer models|168.96|USD|LB|58|50|5|2025-08-20|2025-12-31|Inactive
+SUP039|PROD000130|SP-MEM-MAG-2013|Memory|High quality memory compatible with multiple printer models|36.42|CAD|GAL|12|50|5|2025-08-20|2025-12-31|Active
+SUP016|PROD000131|SP-MEM-LIG-9586|Circuit Board|High quality circuit board compatible with multiple printer models|185.27|CAD|KG|25|25|25|2025-08-20|2025-12-31|Inactive
+SUP044|PROD000132|SP-MOT-BLA-6482|Photo Black Toner Cartridge|High quality photo black toner cartridge compatible with multiple printer models|33.77|GBP|KG|23|100|50|2025-08-20|2025-12-31|Active
+SUP022|PROD000133|SP-TON-MAG-6731|Fuser|High quality fuser compatible with multiple printer models|290.49|GBP|SET|45|100|1|2025-08-20|2025-12-31|Inactive
+SUP036|PROD000134|SP-PAP-PHO-3093|Circuit Board|High quality circuit board compatible with multiple printer models|33.47|GBP|LT|30|1|10|2025-08-20|2025-12-31|Inactive
+SUP012|PROD000135|SP-DRU-PHO-8967|Drum Unit|High quality drum unit compatible with multiple printer models|72.59|EUR|SET|11|10|1|2025-08-20|2025-12-31|Discontinued
+SUP050|PROD000136|SP-CIR-BLA-6517|Motor|High quality motor compatible with multiple printer models|44.52|GBP|SET|17|5|50|2025-08-20|2025-12-31|Active
+SUP047|PROD000137|SP-MEM-BLA-7731|Transfer Belt|High quality transfer belt compatible with multiple printer models|204.84|EUR|LB|46|10|25|2025-08-20|2025-12-31|Active
+SUP035|PROD000138|SP-DRU-TRI-8684|Drum Unit|High quality drum unit compatible with multiple printer models|114.14|GBP|LB|56|10|25|2025-08-20|2025-12-31|Discontinued
+SUP034|PROD000139|SP-PAP-MAG-4271|Motor|High quality motor compatible with multiple printer models|46.68|CAD|EA|48|25|10|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000140|SP-CIR-CYA-5670|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|86.19|EUR|LB|12|5|25|2025-08-20|2025-12-31|Inactive
+SUP002|PROD000141|SP-PAP-BLA-7495|Circuit Board|High quality circuit board compatible with multiple printer models|115.93|GBP|EA|30|5|1|2025-08-20|2025-12-31|Inactive
+SUP007|PROD000142|SP-TRA-MAG-3254|Tri-Color Ink Cartridge|High quality tri-color ink cartridge compatible with multiple printer models|275.7|GBP|GAL|60|5|25|2025-08-20|2025-12-31|Inactive
+SUP040|PROD000143|SP-INK-CYA-1311|Fuser|High quality fuser compatible with multiple printer models|69.39|EUR|LT|53|50|50|2025-08-20|2025-12-31|Inactive
+SUP008|PROD000144|SP-FUS-YEL-5934|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|76.09|GBP|EA|14|25|50|2025-08-20|2025-12-31|Discontinued
+SUP002|PROD000145|SP-CIR-YEL-3352|Fuser|High quality fuser compatible with multiple printer models|132.19|CAD|SET|43|25|5|2025-08-20|2025-12-31|Discontinued
+SUP043|PROD000146|SP-TON-PHO-2108|Circuit Board|High quality circuit board compatible with multiple printer models|165.95|USD|LB|37|1|25|2025-08-20|2025-12-31|Inactive
+SUP017|PROD000147|SP-INK-PHO-2106|Transfer Belt|High quality transfer belt compatible with multiple printer models|76.88|USD|LT|54|10|5|2025-08-20|2025-12-31|Active
+SUP023|PROD000148|SP-CIR-PHO-3868|Memory|High quality memory compatible with multiple printer models|294.35|GBP|GAL|18|5|1|2025-08-20|2025-12-31|Discontinued
+SUP050|PROD000149|SP-MEM-BLA-5807|Drum Unit|High quality drum unit compatible with multiple printer models|18.87|EUR|EA|27|10|50|2025-08-20|2025-12-31|Inactive
+SUP035|PROD000150|SP-MEM-TRI-1599|Drum Unit|High quality drum unit compatible with multiple printer models|90.11|USD|GAL|28|10|1|2025-08-20|2025-12-31|Inactive
+SUP028|PROD000151|SP-PAP-LIG-7334|Transfer Belt|High quality transfer belt compatible with multiple printer models|292.26|GBP|GAL|38|10|50|2025-08-20|2025-12-31|Inactive
+SUP006|PROD000152|SP-PAP-CYA-8055|Motor|High quality motor compatible with multiple printer models|298.55|EUR|LT|25|10|1|2025-08-20|2025-12-31|Active
+SUP021|PROD000153|SP-FUS-TRI-8305|Motor|High quality motor compatible with multiple printer models|216.98|EUR|GAL|35|10|25|2025-08-20|2025-12-31|Active
+SUP047|PROD000154|SP-TRA-LIG-5498|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|203.32|GBP|KG|39|100|5|2025-08-20|2025-12-31|Active
+SUP010|PROD000155|SP-MOT-LIG-1570|Print Head|High quality print head compatible with multiple printer models|25.76|CAD|KG|31|50|1|2025-08-20|2025-12-31|Discontinued
+SUP010|PROD000156|SP-MEM-PHO-7095|Memory|High quality memory compatible with multiple printer models|230.34|EUR|LT|30|25|10|2025-08-20|2025-12-31|Discontinued
+SUP018|PROD000157|SP-DRU-CYA-1424|Print Head|High quality print head compatible with multiple printer models|152.71|GBP|LT|14|10|10|2025-08-20|2025-12-31|Discontinued
+SUP029|PROD000158|SP-DRU-TRI-9047|Drum Unit|High quality drum unit compatible with multiple printer models|42.05|USD|LB|18|100|25|2025-08-20|2025-12-31|Active
+SUP044|PROD000159|SP-TRA-PHO-2063|Circuit Board|High quality circuit board compatible with multiple printer models|165.39|CAD|SET|52|100|5|2025-08-20|2025-12-31|Inactive
+SUP033|PROD000160|SP-DRU-CYA-4292|Print Head|High quality print head compatible with multiple printer models|75.59|GBP|EA|30|50|50|2025-08-20|2025-12-31|Inactive
+SUP030|PROD000161|SP-CIR-MAG-2412|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|123.05|GBP|LT|33|25|50|2025-08-20|2025-12-31|Active
+SUP009|PROD000162|SP-TRA-CYA-8372|Memory|High quality memory compatible with multiple printer models|205.94|CAD|SET|60|50|50|2025-08-20|2025-12-31|Active
+SUP050|PROD000163|SP-PRI-LIG-9238|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|158.31|CAD|SET|17|10|5|2025-08-20|2025-12-31|Inactive
+SUP034|PROD000164|SP-FUS-CYA-5105|Drum Unit|High quality drum unit compatible with multiple printer models|192.7|CAD|SET|47|10|50|2025-08-20|2025-12-31|Discontinued
+SUP006|PROD000165|SP-CIR-MAG-3526|Print Head|High quality print head compatible with multiple printer models|199.66|CAD|LT|9|1|1|2025-08-20|2025-12-31|Active
+SUP042|PROD000166|SP-MOT-TRI-4453|Motor|High quality motor compatible with multiple printer models|128.47|USD|LB|47|50|10|2025-08-20|2025-12-31|Discontinued
+SUP020|PROD000167|SP-MEM-YEL-7653|Fuser|High quality fuser compatible with multiple printer models|139.33|USD|SET|35|25|25|2025-08-20|2025-12-31|Inactive
+SUP014|PROD000168|SP-TRA-MAG-6121|Transfer Belt|High quality transfer belt compatible with multiple printer models|221.84|CAD|LB|15|10|50|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000169|SP-TRA-YEL-8642|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|138.17|EUR|EA|10|10|25|2025-08-20|2025-12-31|Discontinued
+SUP027|PROD000170|SP-DRU-MAG-6364|Motor|High quality motor compatible with multiple printer models|218.0|EUR|SET|38|50|25|2025-08-20|2025-12-31|Inactive
+SUP020|PROD000171|SP-MEM-BLA-2475|Paper Tray|High quality paper tray compatible with multiple printer models|154.59|EUR|SET|44|10|1|2025-08-20|2025-12-31|Active
+SUP019|PROD000172|SP-MEM-LIG-5681|Circuit Board|High quality circuit board compatible with multiple printer models|8.39|USD|LB|15|10|10|2025-08-20|2025-12-31|Inactive
+SUP024|PROD000173|SP-INK-LIG-1838|Motor|High quality motor compatible with multiple printer models|171.16|CAD|LT|25|1|25|2025-08-20|2025-12-31|Discontinued
+SUP029|PROD000174|SP-CIR-TRI-2946|Print Head|High quality print head compatible with multiple printer models|292.66|GBP|KG|57|10|50|2025-08-20|2025-12-31|Inactive
+SUP049|PROD000175|SP-PRI-YEL-9341|Paper Tray|High quality paper tray compatible with multiple printer models|153.01|USD|EA|15|100|10|2025-08-20|2025-12-31|Inactive
+SUP034|PROD000176|SP-MEM-MAG-9446|Print Head|High quality print head compatible with multiple printer models|102.41|CAD|SET|32|50|10|2025-08-20|2025-12-31|Discontinued
+SUP022|PROD000177|SP-CIR-LIG-5911|Memory|High quality memory compatible with multiple printer models|245.82|CAD|KG|50|1|25|2025-08-20|2025-12-31|Discontinued
+SUP020|PROD000178|SP-INK-LIG-5350|Motor|High quality motor compatible with multiple printer models|175.81|USD|LT|37|5|50|2025-08-20|2025-12-31|Discontinued
+SUP047|PROD000179|SP-MOT-LIG-3421|Drum Unit|High quality drum unit compatible with multiple printer models|15.27|USD|SET|8|25|10|2025-08-20|2025-12-31|Inactive
+SUP010|PROD000180|SP-PAP-YEL-7723|Circuit Board|High quality circuit board compatible with multiple printer models|233.83|GBP|GAL|53|1|5|2025-08-20|2025-12-31|Discontinued
+SUP014|PROD000181|SP-CIR-PHO-8837|Circuit Board|High quality circuit board compatible with multiple printer models|116.78|EUR|LB|41|10|50|2025-08-20|2025-12-31|Inactive
+SUP044|PROD000182|SP-FUS-LIG-4150|Drum Unit|High quality drum unit compatible with multiple printer models|88.02|CAD|SET|26|10|5|2025-08-20|2025-12-31|Discontinued
+SUP046|PROD000183|SP-MEM-PHO-8861|Transfer Belt|High quality transfer belt compatible with multiple printer models|170.77|CAD|KG|14|50|50|2025-08-20|2025-12-31|Inactive
+SUP026|PROD000184|SP-TRA-MAG-5758|Tri-Color Ink Cartridge|High quality tri-color ink cartridge compatible with multiple printer models|286.85|USD|KG|35|100|10|2025-08-20|2025-12-31|Discontinued
+SUP031|PROD000185|SP-DRU-YEL-9824|Fuser|High quality fuser compatible with multiple printer models|280.3|CAD|SET|13|50|50|2025-08-20|2025-12-31|Active
+SUP016|PROD000186|SP-INK-YEL-4814|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|127.5|GBP|EA|50|5|1|2025-08-20|2025-12-31|Discontinued
+SUP011|PROD000187|SP-PAP-LIG-8822|Drum Unit|High quality drum unit compatible with multiple printer models|228.23|CAD|KG|25|100|1|2025-08-20|2025-12-31|Active
+SUP042|PROD000188|SP-MOT-YEL-9767|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|128.85|EUR|EA|60|25|25|2025-08-20|2025-12-31|Active
+SUP048|PROD000189|SP-FUS-BLA-1151|Fuser|High quality fuser compatible with multiple printer models|172.97|USD|KG|25|25|50|2025-08-20|2025-12-31|Discontinued
+SUP032|PROD000190|SP-PRI-LIG-5470|Drum Unit|High quality drum unit compatible with multiple printer models|243.78|CAD|SET|53|25|10|2025-08-20|2025-12-31|Discontinued
+SUP012|PROD000191|SP-INK-PHO-5833|Motor|High quality motor compatible with multiple printer models|204.26|EUR|SET|46|100|25|2025-08-20|2025-12-31|Inactive
+SUP033|PROD000192|SP-TRA-CYA-7567|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|294.61|GBP|KG|22|1|10|2025-08-20|2025-12-31|Inactive
+SUP016|PROD000193|SP-MEM-TRI-6400|Fuser|High quality fuser compatible with multiple printer models|177.23|USD|KG|48|10|5|2025-08-20|2025-12-31|Active
+SUP043|PROD000194|SP-TON-LIG-6026|Print Head|High quality print head compatible with multiple printer models|125.18|CAD|GAL|14|100|10|2025-08-20|2025-12-31|Inactive
+SUP040|PROD000195|SP-DRU-YEL-3188|Memory|High quality memory compatible with multiple printer models|51.03|CAD|LB|51|50|25|2025-08-20|2025-12-31|Discontinued
+SUP043|PROD000196|SP-DRU-YEL-2341|Circuit Board|High quality circuit board compatible with multiple printer models|137.33|CAD|EA|43|1|1|2025-08-20|2025-12-31|Discontinued
+SUP033|PROD000197|SP-DRU-MAG-3695|Transfer Belt|High quality transfer belt compatible with multiple printer models|257.21|GBP|EA|50|5|50|2025-08-20|2025-12-31|Inactive
+SUP006|PROD000198|SP-CIR-LIG-1911|Memory|High quality memory compatible with multiple printer models|44.78|GBP|LB|43|1|50|2025-08-20|2025-12-31|Inactive
+SUP044|PROD000199|SP-FUS-BLA-7487|Fuser|High quality fuser compatible with multiple printer models|246.03|EUR|LT|11|1|25|2025-08-20|2025-12-31|Inactive
+SUP045|PROD000200|SP-TON-BLA-2130|Memory|High quality memory compatible with multiple printer models|15.32|GBP|SET|56|5|25|2025-08-20|2025-12-31|Inactive
+SUP025|PROD000201|SP-MEM-LIG-7154|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|198.13|CAD|EA|18|50|25|2025-08-20|2025-12-31|Discontinued
+SUP009|PROD000202|SP-DRU-BLA-1372|Fuser|High quality fuser compatible with multiple printer models|142.11|GBP|LT|31|5|5|2025-08-20|2025-12-31|Inactive
+SUP023|PROD000203|SP-PRI-TRI-4088|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|243.98|GBP|LT|56|1|5|2025-08-20|2025-12-31|Active
+SUP005|PROD000204|SP-TON-BLA-8314|Motor|High quality motor compatible with multiple printer models|203.56|USD|SET|54|1|25|2025-08-20|2025-12-31|Inactive
+SUP015|PROD000205|SP-CIR-YEL-1924|Print Head|High quality print head compatible with multiple printer models|154.14|CAD|SET|59|100|50|2025-08-20|2025-12-31|Inactive
+SUP037|PROD000206|SP-MOT-PHO-4881|Fuser|High quality fuser compatible with multiple printer models|263.61|EUR|LB|26|10|1|2025-08-20|2025-12-31|Discontinued
+SUP038|PROD000207|SP-PRI-LIG-9120|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|282.82|GBP|LT|27|100|25|2025-08-20|2025-12-31|Inactive
+SUP010|PROD000208|SP-FUS-LIG-4012|Circuit Board|High quality circuit board compatible with multiple printer models|145.2|EUR|KG|52|5|25|2025-08-20|2025-12-31|Active
+SUP036|PROD000209|SP-PAP-LIG-9683|Print Head|High quality print head compatible with multiple printer models|120.19|CAD|SET|28|100|1|2025-08-20|2025-12-31|Inactive
+SUP024|PROD000210|SP-TON-YEL-1844|Fuser|High quality fuser compatible with multiple printer models|116.88|USD|EA|19|50|50|2025-08-20|2025-12-31|Active
+SUP031|PROD000211|SP-DRU-PHO-5967|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|281.51|USD|GAL|55|25|5|2025-08-20|2025-12-31|Discontinued
+SUP039|PROD000212|SP-DRU-LIG-4921|Circuit Board|High quality circuit board compatible with multiple printer models|100.54|CAD|LB|36|50|10|2025-08-20|2025-12-31|Inactive
+SUP017|PROD000213|SP-TRA-LIG-8635|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|229.91|CAD|SET|30|10|25|2025-08-20|2025-12-31|Active
+SUP037|PROD000214|SP-DRU-MAG-1265|Fuser|High quality fuser compatible with multiple printer models|168.66|GBP|KG|16|5|10|2025-08-20|2025-12-31|Active
+SUP025|PROD000215|SP-MOT-YEL-9180|Circuit Board|High quality circuit board compatible with multiple printer models|198.44|CAD|KG|55|25|25|2025-08-20|2025-12-31|Inactive
+SUP011|PROD000216|SP-TRA-MAG-3293|Circuit Board|High quality circuit board compatible with multiple printer models|149.55|USD|LT|9|1|1|2025-08-20|2025-12-31|Active
+SUP027|PROD000217|SP-PRI-YEL-2113|Print Head|High quality print head compatible with multiple printer models|8.68|GBP|KG|10|50|50|2025-08-20|2025-12-31|Inactive
+SUP043|PROD000218|SP-MEM-BLA-1108|Circuit Board|High quality circuit board compatible with multiple printer models|168.17|USD|EA|40|100|10|2025-08-20|2025-12-31|Discontinued
+SUP019|PROD000219|SP-INK-LIG-3937|Cyan Toner Cartridge|High quality cyan toner cartridge compatible with multiple printer models|160.16|EUR|SET|46|50|10|2025-08-20|2025-12-31|Inactive
+SUP018|PROD000220|SP-PAP-CYA-7112|Paper Tray|High quality paper tray compatible with multiple printer models|140.94|EUR|GAL|21|10|1|2025-08-20|2025-12-31|Discontinued
+SUP042|PROD000221|SP-INK-CYA-7640|Paper Tray|High quality paper tray compatible with multiple printer models|116.88|GBP|EA|47|1|5|2025-08-20|2025-12-31|Active
+SUP032|PROD000222|SP-PAP-PHO-2562|Circuit Board|High quality circuit board compatible with multiple printer models|276.22|EUR|SET|51|50|25|2025-08-20|2025-12-31|Inactive
+SUP003|PROD000223|SP-TON-TRI-9897|Motor|High quality motor compatible with multiple printer models|199.47|EUR|KG|8|5|50|2025-08-20|2025-12-31|Active
+SUP049|PROD000224|SP-PAP-CYA-5903|Print Head|High quality print head compatible with multiple printer models|171.79|GBP|GAL|41|10|25|2025-08-20|2025-12-31|Discontinued
+SUP009|PROD000225|SP-TON-PHO-1879|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|74.24|USD|KG|45|50|50|2025-08-20|2025-12-31|Inactive
+SUP050|PROD000226|SP-TRA-BLA-5478|Memory|High quality memory compatible with multiple printer models|150.23|CAD|LT|31|25|5|2025-08-20|2025-12-31|Discontinued
+SUP038|PROD000227|SP-PAP-CYA-5839|Drum Unit|High quality drum unit compatible with multiple printer models|215.64|USD|KG|16|25|5|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000228|SP-TRA-PHO-2745|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|283.22|GBP|KG|55|10|1|2025-08-20|2025-12-31|Active
+SUP006|PROD000229|SP-PRI-LIG-8353|Circuit Board|High quality circuit board compatible with multiple printer models|169.08|GBP|EA|8|1|10|2025-08-20|2025-12-31|Discontinued
+SUP006|PROD000230|SP-MOT-PHO-7311|Tri-Color Ink Cartridge|High quality tri-color ink cartridge compatible with multiple printer models|127.65|USD|GAL|42|5|50|2025-08-20|2025-12-31|Discontinued
+SUP011|PROD000231|SP-PAP-MAG-3274|Fuser|High quality fuser compatible with multiple printer models|94.52|GBP|SET|11|5|25|2025-08-20|2025-12-31|Inactive
+SUP027|PROD000232|SP-FUS-LIG-2260|Transfer Belt|High quality transfer belt compatible with multiple printer models|79.99|EUR|GAL|47|25|50|2025-08-20|2025-12-31|Discontinued
+SUP013|PROD000233|SP-MEM-CYA-3219|Fuser|High quality fuser compatible with multiple printer models|7.98|GBP|KG|60|50|25|2025-08-20|2025-12-31|Inactive
+SUP029|PROD000234|SP-TRA-LIG-3230|Fuser|High quality fuser compatible with multiple printer models|100.27|EUR|LB|27|5|25|2025-08-20|2025-12-31|Inactive
+SUP019|PROD000235|SP-MEM-YEL-6339|Paper Tray|High quality paper tray compatible with multiple printer models|88.4|GBP|KG|14|50|5|2025-08-20|2025-12-31|Discontinued
+SUP035|PROD000236|SP-PRI-BLA-8563|Drum Unit|High quality drum unit compatible with multiple printer models|134.9|CAD|GAL|11|25|25|2025-08-20|2025-12-31|Active
+SUP041|PROD000237|SP-FUS-YEL-5139|Print Head|High quality print head compatible with multiple printer models|216.27|GBP|EA|35|50|25|2025-08-20|2025-12-31|Discontinued
+SUP026|PROD000238|SP-CIR-LIG-9907|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|212.27|USD|EA|56|5|10|2025-08-20|2025-12-31|Active
+SUP042|PROD000239|SP-MOT-BLA-7547|Transfer Belt|High quality transfer belt compatible with multiple printer models|289.91|GBP|EA|7|1|10|2025-08-20|2025-12-31|Active
+SUP033|PROD000240|SP-CIR-YEL-8303|Transfer Belt|High quality transfer belt compatible with multiple printer models|120.98|EUR|KG|8|25|1|2025-08-20|2025-12-31|Inactive
+SUP027|PROD000241|SP-TON-CYA-3321|Transfer Belt|High quality transfer belt compatible with multiple printer models|97.69|GBP|SET|40|25|10|2025-08-20|2025-12-31|Inactive
+SUP007|PROD000242|SP-MEM-LIG-6225|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|19.13|USD|EA|28|100|1|2025-08-20|2025-12-31|Discontinued
+SUP011|PROD000243|SP-DRU-MAG-3623|Transfer Belt|High quality transfer belt compatible with multiple printer models|170.59|GBP|SET|58|25|5|2025-08-20|2025-12-31|Active
+SUP041|PROD000244|SP-PAP-LIG-1478|Motor|High quality motor compatible with multiple printer models|265.62|GBP|LT|34|25|1|2025-08-20|2025-12-31|Discontinued
+SUP014|PROD000245|SP-DRU-TRI-2025|Motor|High quality motor compatible with multiple printer models|35.91|EUR|KG|27|5|25|2025-08-20|2025-12-31|Active
+SUP017|PROD000246|SP-MEM-PHO-7367|Motor|High quality motor compatible with multiple printer models|121.4|USD|KG|29|25|50|2025-08-20|2025-12-31|Active
+SUP044|PROD000247|SP-FUS-CYA-3194|Transfer Belt|High quality transfer belt compatible with multiple printer models|40.64|CAD|EA|18|10|5|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000248|SP-PAP-MAG-7286|Paper Tray|High quality paper tray compatible with multiple printer models|60.6|EUR|LT|17|25|10|2025-08-20|2025-12-31|Active
+SUP012|PROD000249|SP-TRA-LIG-1878|Transfer Belt|High quality transfer belt compatible with multiple printer models|285.83|GBP|SET|19|25|50|2025-08-20|2025-12-31|Discontinued
+SUP042|PROD000250|SP-MEM-LIG-9056|Paper Tray|High quality paper tray compatible with multiple printer models|214.77|GBP|LB|17|1|50|2025-08-20|2025-12-31|Active
+SUP049|PROD000251|SP-DRU-TRI-1535|Fuser|High quality fuser compatible with multiple printer models|72.09|CAD|SET|56|25|50|2025-08-20|2025-12-31|Discontinued
+SUP050|PROD000252|SP-MEM-CYA-2871|Fuser|High quality fuser compatible with multiple printer models|233.87|CAD|LT|59|1|25|2025-08-20|2025-12-31|Discontinued
+SUP014|PROD000253|SP-PAP-CYA-5055|Fuser|High quality fuser compatible with multiple printer models|263.18|USD|LB|23|10|1|2025-08-20|2025-12-31|Inactive
+SUP008|PROD000254|SP-DRU-YEL-6744|Motor|High quality motor compatible with multiple printer models|192.02|EUR|LT|15|5|5|2025-08-20|2025-12-31|Active
+SUP037|PROD000255|SP-TRA-TRI-9827|Print Head|High quality print head compatible with multiple printer models|101.14|CAD|KG|43|10|50|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000256|SP-PRI-LIG-1971|Fuser|High quality fuser compatible with multiple printer models|260.9|EUR|GAL|15|5|5|2025-08-20|2025-12-31|Discontinued
+SUP021|PROD000257|SP-DRU-LIG-9019|Print Head|High quality print head compatible with multiple printer models|175.75|CAD|GAL|33|25|25|2025-08-20|2025-12-31|Active
+SUP041|PROD000258|SP-TON-LIG-9447|Fuser|High quality fuser compatible with multiple printer models|210.23|CAD|LB|38|10|50|2025-08-20|2025-12-31|Active
+SUP050|PROD000259|SP-TON-LIG-6869|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|70.03|GBP|SET|38|10|10|2025-08-20|2025-12-31|Inactive
+SUP022|PROD000260|SP-CIR-MAG-8951|Transfer Belt|High quality transfer belt compatible with multiple printer models|268.87|USD|EA|13|100|25|2025-08-20|2025-12-31|Active
+SUP008|PROD000261|SP-PRI-LIG-8479|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|65.47|EUR|GAL|26|5|10|2025-08-20|2025-12-31|Active
+SUP042|PROD000262|SP-TRA-TRI-2350|Transfer Belt|High quality transfer belt compatible with multiple printer models|201.36|EUR|EA|32|100|10|2025-08-20|2025-12-31|Discontinued
+SUP045|PROD000263|SP-DRU-LIG-2494|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|68.74|USD|SET|44|5|50|2025-08-20|2025-12-31|Discontinued
+SUP029|PROD000264|SP-INK-BLA-6629|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|210.04|GBP|EA|21|25|1|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000265|SP-TON-PHO-7022|Fuser|High quality fuser compatible with multiple printer models|46.31|EUR|GAL|50|5|1|2025-08-20|2025-12-31|Discontinued
+SUP037|PROD000266|SP-INK-MAG-8210|Transfer Belt|High quality transfer belt compatible with multiple printer models|218.39|EUR|LB|46|100|25|2025-08-20|2025-12-31|Active
+SUP006|PROD000267|SP-TON-MAG-3017|Motor|High quality motor compatible with multiple printer models|220.61|CAD|LB|27|5|5|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000268|SP-TON-YEL-5668|Tri-Color Ink Cartridge|High quality tri-color ink cartridge compatible with multiple printer models|66.39|EUR|GAL|32|10|1|2025-08-20|2025-12-31|Active
+SUP032|PROD000269|SP-PAP-CYA-4949|Memory|High quality memory compatible with multiple printer models|193.59|USD|LT|7|10|10|2025-08-20|2025-12-31|Active
+SUP025|PROD000270|SP-MOT-LIG-6986|Circuit Board|High quality circuit board compatible with multiple printer models|206.77|GBP|EA|8|50|1|2025-08-20|2025-12-31|Active
+SUP017|PROD000271|SP-DRU-BLA-1990|Paper Tray|High quality paper tray compatible with multiple printer models|154.93|GBP|LB|51|25|1|2025-08-20|2025-12-31|Discontinued
+SUP035|PROD000272|SP-CIR-MAG-5546|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|29.22|EUR|SET|41|10|25|2025-08-20|2025-12-31|Discontinued
+SUP041|PROD000273|SP-TON-TRI-8167|Drum Unit|High quality drum unit compatible with multiple printer models|23.01|USD|LB|14|25|50|2025-08-20|2025-12-31|Discontinued
+SUP004|PROD000274|SP-FUS-MAG-2956|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|212.23|EUR|LB|29|50|50|2025-08-20|2025-12-31|Discontinued
+SUP017|PROD000275|SP-PRI-PHO-3079|Fuser|High quality fuser compatible with multiple printer models|221.47|USD|EA|28|25|10|2025-08-20|2025-12-31|Discontinued
+SUP005|PROD000276|SP-FUS-CYA-9128|Memory|High quality memory compatible with multiple printer models|156.16|USD|LB|43|5|10|2025-08-20|2025-12-31|Active
+SUP017|PROD000277|SP-TON-CYA-4742|Circuit Board|High quality circuit board compatible with multiple printer models|6.75|USD|SET|9|25|10|2025-08-20|2025-12-31|Inactive
+SUP010|PROD000278|SP-PRI-BLA-7870|Drum Unit|High quality drum unit compatible with multiple printer models|100.6|GBP|GAL|27|10|1|2025-08-20|2025-12-31|Discontinued
+SUP024|PROD000279|SP-TON-BLA-3938|Drum Unit|High quality drum unit compatible with multiple printer models|242.47|USD|LB|11|25|10|2025-08-20|2025-12-31|Inactive
+SUP021|PROD000280|SP-TON-LIG-1130|Transfer Belt|High quality transfer belt compatible with multiple printer models|64.99|CAD|GAL|46|5|25|2025-08-20|2025-12-31|Inactive
+SUP038|PROD000281|SP-MEM-YEL-9954|Drum Unit|High quality drum unit compatible with multiple printer models|50.26|GBP|EA|21|50|10|2025-08-20|2025-12-31|Discontinued
+SUP045|PROD000282|SP-INK-PHO-1023|Paper Tray|High quality paper tray compatible with multiple printer models|255.6|CAD|EA|20|50|5|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000283|SP-INK-MAG-5584|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|276.84|GBP|GAL|30|25|1|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000284|SP-CIR-MAG-7461|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|133.87|EUR|SET|25|10|10|2025-08-20|2025-12-31|Inactive
+SUP045|PROD000285|SP-TRA-PHO-8417|Fuser|High quality fuser compatible with multiple printer models|74.67|EUR|SET|56|50|1|2025-08-20|2025-12-31|Active
+SUP007|PROD000286|SP-PRI-LIG-8635|Transfer Belt|High quality transfer belt compatible with multiple printer models|125.5|CAD|SET|35|10|25|2025-08-20|2025-12-31|Inactive
+SUP008|PROD000287|SP-TON-MAG-5984|Motor|High quality motor compatible with multiple printer models|17.85|CAD|SET|12|100|5|2025-08-20|2025-12-31|Inactive
+SUP026|PROD000288|SP-CIR-BLA-5896|Fuser|High quality fuser compatible with multiple printer models|247.1|EUR|EA|32|25|50|2025-08-20|2025-12-31|Discontinued
+SUP036|PROD000289|SP-DRU-CYA-8570|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|41.7|USD|SET|15|5|25|2025-08-20|2025-12-31|Inactive
+SUP044|PROD000290|SP-TON-TRI-2228|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|64.13|GBP|SET|12|10|1|2025-08-20|2025-12-31|Active
+SUP030|PROD000291|SP-INK-MAG-8096|Paper Tray|High quality paper tray compatible with multiple printer models|151.85|GBP|GAL|34|5|10|2025-08-20|2025-12-31|Active
+SUP012|PROD000292|SP-FUS-TRI-8307|Print Head|High quality print head compatible with multiple printer models|16.18|EUR|GAL|25|25|25|2025-08-20|2025-12-31|Discontinued
+SUP031|PROD000293|SP-INK-CYA-5583|Paper Tray|High quality paper tray compatible with multiple printer models|46.34|EUR|GAL|58|50|5|2025-08-20|2025-12-31|Discontinued
+SUP035|PROD000294|SP-INK-LIG-6883|Memory|High quality memory compatible with multiple printer models|166.08|GBP|KG|43|50|10|2025-08-20|2025-12-31|Inactive
+SUP018|PROD000295|SP-PRI-BLA-6224|Motor|High quality motor compatible with multiple printer models|70.38|CAD|EA|58|25|50|2025-08-20|2025-12-31|Inactive
+SUP050|PROD000296|SP-MOT-YEL-3615|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|199.11|CAD|LT|59|100|1|2025-08-20|2025-12-31|Active
+SUP037|PROD000297|SP-PAP-PHO-3846|Print Head|High quality print head compatible with multiple printer models|75.54|CAD|GAL|51|10|50|2025-08-20|2025-12-31|Active
+SUP046|PROD000298|SP-TRA-MAG-4084|Memory|High quality memory compatible with multiple printer models|165.37|EUR|LB|9|1|1|2025-08-20|2025-12-31|Active
+SUP039|PROD000299|SP-DRU-BLA-9625|Memory|High quality memory compatible with multiple printer models|6.19|EUR|SET|28|100|5|2025-08-20|2025-12-31|Inactive
+SUP004|PROD000300|SP-INK-MAG-3320|Photo Black Toner Cartridge|High quality photo black toner cartridge compatible with multiple printer models|288.39|CAD|GAL|49|25|50|2025-08-20|2025-12-31|Active
+SUP022|PROD000301|SP-FUS-PHO-3235|Print Head|High quality print head compatible with multiple printer models|221.3|GBP|GAL|38|100|10|2025-08-20|2025-12-31|Active
+SUP046|PROD000302|SP-CIR-PHO-4657|Motor|High quality motor compatible with multiple printer models|245.44|GBP|KG|53|100|10|2025-08-20|2025-12-31|Active
+SUP012|PROD000303|SP-INK-LIG-1530|Print Head|High quality print head compatible with multiple printer models|183.09|EUR|GAL|43|1|25|2025-08-20|2025-12-31|Active
+SUP022|PROD000304|SP-TON-YEL-6682|Transfer Belt|High quality transfer belt compatible with multiple printer models|55.35|USD|GAL|49|100|10|2025-08-20|2025-12-31|Inactive
+SUP001|PROD000305|SP-FUS-YEL-5088|Photo Black Toner Cartridge|High quality photo black toner cartridge compatible with multiple printer models|81.45|USD|GAL|7|1|25|2025-08-20|2025-12-31|Inactive
+SUP047|PROD000306|SP-PAP-MAG-7783|Memory|High quality memory compatible with multiple printer models|265.23|CAD|LT|31|1|25|2025-08-20|2025-12-31|Discontinued
+SUP042|PROD000307|SP-DRU-MAG-8393|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|92.69|CAD|KG|13|1|10|2025-08-20|2025-12-31|Active
+SUP025|PROD000308|SP-PRI-CYA-9962|Photo Black Toner Cartridge|High quality photo black toner cartridge compatible with multiple printer models|180.63|GBP|GAL|8|25|5|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000309|SP-PRI-BLA-2659|Transfer Belt|High quality transfer belt compatible with multiple printer models|66.42|EUR|LB|51|50|50|2025-08-20|2025-12-31|Inactive
+SUP043|PROD000310|SP-FUS-TRI-4891|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|121.5|GBP|SET|10|10|1|2025-08-20|2025-12-31|Inactive
+SUP006|PROD000311|SP-FUS-LIG-4271|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|66.83|CAD|EA|37|1|10|2025-08-20|2025-12-31|Inactive
+SUP031|PROD000312|SP-MEM-TRI-2493|Circuit Board|High quality circuit board compatible with multiple printer models|119.92|CAD|LB|30|5|25|2025-08-20|2025-12-31|Active
+SUP017|PROD000313|SP-MEM-LIG-5315|Drum Unit|High quality drum unit compatible with multiple printer models|252.09|USD|SET|55|100|1|2025-08-20|2025-12-31|Active
+SUP043|PROD000314|SP-TRA-LIG-4727|Circuit Board|High quality circuit board compatible with multiple printer models|23.92|GBP|LT|33|50|25|2025-08-20|2025-12-31|Discontinued
+SUP016|PROD000315|SP-MEM-TRI-2293|Paper Tray|High quality paper tray compatible with multiple printer models|271.41|USD|LT|43|50|50|2025-08-20|2025-12-31|Discontinued
+SUP040|PROD000316|SP-PRI-CYA-8357|Print Head|High quality print head compatible with multiple printer models|285.01|EUR|SET|58|5|5|2025-08-20|2025-12-31|Active
+SUP028|PROD000317|SP-TON-LIG-4308|Print Head|High quality print head compatible with multiple printer models|251.22|CAD|KG|53|1|1|2025-08-20|2025-12-31|Inactive
+SUP036|PROD000318|SP-PAP-PHO-5525|Circuit Board|High quality circuit board compatible with multiple printer models|140.69|USD|GAL|46|50|50|2025-08-20|2025-12-31|Inactive
+SUP008|PROD000319|SP-PAP-MAG-3428|Motor|High quality motor compatible with multiple printer models|178.84|USD|EA|43|1|10|2025-08-20|2025-12-31|Discontinued
+SUP023|PROD000320|SP-PAP-TRI-7275|Memory|High quality memory compatible with multiple printer models|174.16|GBP|EA|18|10|25|2025-08-20|2025-12-31|Active
+SUP040|PROD000321|SP-MOT-LIG-1635|Paper Tray|High quality paper tray compatible with multiple printer models|267.52|CAD|GAL|22|1|25|2025-08-20|2025-12-31|Inactive
+SUP024|PROD000322|SP-INK-PHO-5965|Fuser|High quality fuser compatible with multiple printer models|88.41|GBP|GAL|50|1|5|2025-08-20|2025-12-31|Active
+SUP020|PROD000323|SP-MEM-PHO-5414|Paper Tray|High quality paper tray compatible with multiple printer models|183.85|USD|SET|35|5|25|2025-08-20|2025-12-31|Discontinued
+SUP032|PROD000324|SP-CIR-PHO-1920|Circuit Board|High quality circuit board compatible with multiple printer models|238.69|USD|KG|52|50|25|2025-08-20|2025-12-31|Active
+SUP050|PROD000325|SP-CIR-BLA-3846|Drum Unit|High quality drum unit compatible with multiple printer models|263.29|EUR|EA|22|1|25|2025-08-20|2025-12-31|Active
+SUP024|PROD000326|SP-DRU-TRI-7035|Memory|High quality memory compatible with multiple printer models|154.5|USD|GAL|8|5|10|2025-08-20|2025-12-31|Inactive
+SUP039|PROD000327|SP-MEM-MAG-8775|Motor|High quality motor compatible with multiple printer models|168.08|CAD|SET|60|10|1|2025-08-20|2025-12-31|Inactive
+SUP002|PROD000328|SP-PAP-BLA-3669|Motor|High quality motor compatible with multiple printer models|235.26|EUR|SET|48|5|5|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000329|SP-PAP-BLA-1145|Memory|High quality memory compatible with multiple printer models|273.98|EUR|LT|58|1|5|2025-08-20|2025-12-31|Inactive
+SUP039|PROD000330|SP-FUS-TRI-7943|Paper Tray|High quality paper tray compatible with multiple printer models|256.36|GBP|KG|20|25|10|2025-08-20|2025-12-31|Discontinued
+SUP034|PROD000331|SP-MOT-LIG-2676|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|171.06|CAD|KG|50|1|25|2025-08-20|2025-12-31|Active
+SUP022|PROD000332|SP-FUS-PHO-5536|Fuser|High quality fuser compatible with multiple printer models|198.89|CAD|SET|16|50|5|2025-08-20|2025-12-31|Active
+SUP039|PROD000333|SP-PAP-PHO-3292|Light Magenta Ink Cartridge|High quality light magenta ink cartridge compatible with multiple printer models|299.25|CAD|LB|32|25|1|2025-08-20|2025-12-31|Discontinued
+SUP046|PROD000334|SP-MOT-YEL-6622|Drum Unit|High quality drum unit compatible with multiple printer models|207.77|GBP|GAL|29|50|10|2025-08-20|2025-12-31|Active
+SUP043|PROD000335|SP-CIR-MAG-5813|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|43.61|CAD|GAL|58|50|5|2025-08-20|2025-12-31|Discontinued
+SUP022|PROD000336|SP-TON-YEL-6820|Drum Unit|High quality drum unit compatible with multiple printer models|224.79|CAD|LB|57|10|10|2025-08-20|2025-12-31|Inactive
+SUP038|PROD000337|SP-FUS-LIG-2929|Memory|High quality memory compatible with multiple printer models|21.77|USD|LB|19|50|1|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000338|SP-CIR-TRI-7768|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|46.38|EUR|KG|33|50|25|2025-08-20|2025-12-31|Active
+SUP021|PROD000339|SP-PRI-CYA-8988|Transfer Belt|High quality transfer belt compatible with multiple printer models|191.51|EUR|KG|47|1|1|2025-08-20|2025-12-31|Inactive
+SUP018|PROD000340|SP-DRU-MAG-3595|Memory|High quality memory compatible with multiple printer models|236.84|USD|SET|46|25|25|2025-08-20|2025-12-31|Inactive
+SUP028|PROD000341|SP-MEM-LIG-1076|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|220.8|USD|KG|55|50|5|2025-08-20|2025-12-31|Active
+SUP044|PROD000342|SP-INK-YEL-4707|Transfer Belt|High quality transfer belt compatible with multiple printer models|97.75|USD|LB|39|50|10|2025-08-20|2025-12-31|Active
+SUP005|PROD000343|SP-INK-TRI-5764|Memory|High quality memory compatible with multiple printer models|219.97|CAD|LB|50|5|10|2025-08-20|2025-12-31|Inactive
+SUP023|PROD000344|SP-DRU-MAG-7609|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|71.94|EUR|SET|53|1|50|2025-08-20|2025-12-31|Discontinued
+SUP011|PROD000345|SP-TON-PHO-1612|Paper Tray|High quality paper tray compatible with multiple printer models|263.69|CAD|LT|46|1|50|2025-08-20|2025-12-31|Active
+SUP043|PROD000346|SP-TON-BLA-1790|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|136.62|USD|LT|23|25|5|2025-08-20|2025-12-31|Active
+SUP045|PROD000347|SP-INK-TRI-7895|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|189.09|EUR|LB|60|1|50|2025-08-20|2025-12-31|Discontinued
+SUP040|PROD000348|SP-TON-TRI-2867|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|64.39|EUR|KG|60|50|5|2025-08-20|2025-12-31|Inactive
+SUP046|PROD000349|SP-PAP-TRI-3627|Light Magenta Ink Cartridge|High quality light magenta ink cartridge compatible with multiple printer models|273.63|GBP|KG|22|1|1|2025-08-20|2025-12-31|Discontinued
+SUP006|PROD000350|SP-TON-LIG-3443|Cyan Toner Cartridge|High quality cyan toner cartridge compatible with multiple printer models|218.72|USD|KG|48|5|25|2025-08-20|2025-12-31|Inactive
+SUP017|PROD000351|SP-MEM-BLA-2635|Print Head|High quality print head compatible with multiple printer models|262.99|CAD|KG|58|100|10|2025-08-20|2025-12-31|Inactive
+SUP048|PROD000352|SP-TON-CYA-1751|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|201.02|EUR|KG|29|25|50|2025-08-20|2025-12-31|Inactive
+SUP047|PROD000353|SP-TON-PHO-6615|Print Head|High quality print head compatible with multiple printer models|39.46|GBP|LB|24|25|25|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000354|SP-PRI-CYA-3171|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|36.48|GBP|LT|50|25|5|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000355|SP-TRA-BLA-3140|Memory|High quality memory compatible with multiple printer models|276.59|USD|LB|35|1|1|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000356|SP-TRA-BLA-9598|Motor|High quality motor compatible with multiple printer models|218.78|EUR|GAL|28|50|50|2025-08-20|2025-12-31|Discontinued
+SUP045|PROD000357|SP-MOT-CYA-8091|Drum Unit|High quality drum unit compatible with multiple printer models|147.68|GBP|SET|60|50|50|2025-08-20|2025-12-31|Active
+SUP001|PROD000358|SP-PRI-LIG-9123|Print Head|High quality print head compatible with multiple printer models|28.0|GBP|KG|22|10|10|2025-08-20|2025-12-31|Active
+SUP033|PROD000359|SP-DRU-LIG-7607|Drum Unit|High quality drum unit compatible with multiple printer models|29.17|GBP|LT|35|1|25|2025-08-20|2025-12-31|Inactive
+SUP021|PROD000360|SP-TON-LIG-1291|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|127.22|USD|EA|57|50|50|2025-08-20|2025-12-31|Discontinued
+SUP020|PROD000361|SP-CIR-YEL-8474|Transfer Belt|High quality transfer belt compatible with multiple printer models|112.81|USD|SET|36|10|50|2025-08-20|2025-12-31|Discontinued
+SUP039|PROD000362|SP-MEM-PHO-8414|Cyan Toner Cartridge|High quality cyan toner cartridge compatible with multiple printer models|229.23|EUR|EA|28|10|10|2025-08-20|2025-12-31|Discontinued
+SUP034|PROD000363|SP-TRA-CYA-1750|Print Head|High quality print head compatible with multiple printer models|150.76|GBP|EA|23|50|5|2025-08-20|2025-12-31|Active
+SUP008|PROD000364|SP-PAP-YEL-8488|Drum Unit|High quality drum unit compatible with multiple printer models|216.73|USD|LB|9|100|50|2025-08-20|2025-12-31|Active
+SUP050|PROD000365|SP-MEM-LIG-9260|Print Head|High quality print head compatible with multiple printer models|289.36|USD|LT|54|1|50|2025-08-20|2025-12-31|Inactive
+SUP038|PROD000366|SP-MEM-MAG-3845|Print Head|High quality print head compatible with multiple printer models|36.43|CAD|LT|31|25|50|2025-08-20|2025-12-31|Discontinued
+SUP049|PROD000367|SP-DRU-TRI-7518|Transfer Belt|High quality transfer belt compatible with multiple printer models|291.31|GBP|SET|15|25|50|2025-08-20|2025-12-31|Discontinued
+SUP048|PROD000368|SP-CIR-TRI-9975|Transfer Belt|High quality transfer belt compatible with multiple printer models|215.28|EUR|SET|20|50|10|2025-08-20|2025-12-31|Discontinued
+SUP023|PROD000369|SP-PRI-MAG-9255|Circuit Board|High quality circuit board compatible with multiple printer models|210.12|CAD|GAL|14|10|50|2025-08-20|2025-12-31|Inactive
+SUP038|PROD000370|SP-MOT-LIG-9747|Fuser|High quality fuser compatible with multiple printer models|263.97|GBP|EA|40|1|1|2025-08-20|2025-12-31|Inactive
+SUP010|PROD000371|SP-INK-BLA-4275|Fuser|High quality fuser compatible with multiple printer models|226.54|EUR|KG|50|10|5|2025-08-20|2025-12-31|Active
+SUP045|PROD000372|SP-FUS-YEL-9866|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|245.31|USD|LT|50|100|50|2025-08-20|2025-12-31|Active
+SUP048|PROD000373|SP-CIR-LIG-4892|Circuit Board|High quality circuit board compatible with multiple printer models|236.58|CAD|GAL|49|1|25|2025-08-20|2025-12-31|Inactive
+SUP027|PROD000374|SP-TRA-BLA-1212|Fuser|High quality fuser compatible with multiple printer models|65.7|GBP|SET|47|100|10|2025-08-20|2025-12-31|Discontinued
+SUP035|PROD000375|SP-MOT-YEL-4170|Fuser|High quality fuser compatible with multiple printer models|137.94|USD|SET|18|100|50|2025-08-20|2025-12-31|Active
+SUP025|PROD000376|SP-INK-LIG-5572|Circuit Board|High quality circuit board compatible with multiple printer models|83.68|EUR|LT|23|1|10|2025-08-20|2025-12-31|Inactive
+SUP046|PROD000377|SP-PRI-BLA-3518|Transfer Belt|High quality transfer belt compatible with multiple printer models|181.47|CAD|LB|57|50|50|2025-08-20|2025-12-31|Inactive
+SUP005|PROD000378|SP-TRA-YEL-4012|Circuit Board|High quality circuit board compatible with multiple printer models|26.03|EUR|LB|41|50|25|2025-08-20|2025-12-31|Active
+SUP023|PROD000379|SP-DRU-YEL-6437|Transfer Belt|High quality transfer belt compatible with multiple printer models|112.06|EUR|LT|40|25|50|2025-08-20|2025-12-31|Discontinued
+SUP001|PROD000380|SP-TON-PHO-8301|Drum Unit|High quality drum unit compatible with multiple printer models|271.91|EUR|EA|50|10|25|2025-08-20|2025-12-31|Active
+SUP025|PROD000381|SP-FUS-TRI-1404|Circuit Board|High quality circuit board compatible with multiple printer models|247.69|CAD|LT|58|50|25|2025-08-20|2025-12-31|Inactive
+SUP003|PROD000382|SP-FUS-YEL-6248|Circuit Board|High quality circuit board compatible with multiple printer models|30.2|USD|SET|56|50|50|2025-08-20|2025-12-31|Active
+SUP041|PROD000383|SP-TON-YEL-4492|Paper Tray|High quality paper tray compatible with multiple printer models|251.68|EUR|LT|60|100|25|2025-08-20|2025-12-31|Discontinued
+SUP005|PROD000384|SP-PRI-BLA-8523|Transfer Belt|High quality transfer belt compatible with multiple printer models|17.13|USD|EA|18|10|50|2025-08-20|2025-12-31|Active
+SUP037|PROD000385|SP-DRU-TRI-7678|Paper Tray|High quality paper tray compatible with multiple printer models|138.62|GBP|LB|27|1|25|2025-08-20|2025-12-31|Discontinued
+SUP008|PROD000386|SP-CIR-BLA-2036|Motor|High quality motor compatible with multiple printer models|19.37|USD|KG|39|1|10|2025-08-20|2025-12-31|Discontinued
+SUP020|PROD000387|SP-MOT-CYA-5612|Memory|High quality memory compatible with multiple printer models|118.13|USD|LB|17|50|5|2025-08-20|2025-12-31|Active
+SUP048|PROD000388|SP-PAP-TRI-3360|Fuser|High quality fuser compatible with multiple printer models|205.11|CAD|EA|42|50|5|2025-08-20|2025-12-31|Active
+SUP003|PROD000389|SP-INK-LIG-9800|Circuit Board|High quality circuit board compatible with multiple printer models|284.4|CAD|SET|54|100|10|2025-08-20|2025-12-31|Active
+SUP027|PROD000390|SP-CIR-MAG-3637|Print Head|High quality print head compatible with multiple printer models|70.9|CAD|SET|14|5|50|2025-08-20|2025-12-31|Active
+SUP049|PROD000391|SP-CIR-LIG-2198|Fuser|High quality fuser compatible with multiple printer models|203.47|CAD|EA|19|100|50|2025-08-20|2025-12-31|Inactive
+SUP022|PROD000392|SP-TRA-MAG-4842|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|188.13|EUR|KG|38|25|10|2025-08-20|2025-12-31|Discontinued
+SUP043|PROD000393|SP-FUS-MAG-6971|Transfer Belt|High quality transfer belt compatible with multiple printer models|287.84|EUR|EA|27|5|5|2025-08-20|2025-12-31|Discontinued
+SUP048|PROD000394|SP-PAP-TRI-6889|Print Head|High quality print head compatible with multiple printer models|205.79|CAD|LB|36|25|10|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000395|SP-CIR-CYA-3879|Motor|High quality motor compatible with multiple printer models|30.09|CAD|SET|41|5|10|2025-08-20|2025-12-31|Discontinued
+SUP041|PROD000396|SP-TON-CYA-1305|Circuit Board|High quality circuit board compatible with multiple printer models|191.69|GBP|LT|20|1|50|2025-08-20|2025-12-31|Inactive
+SUP035|PROD000397|SP-CIR-LIG-3435|Transfer Belt|High quality transfer belt compatible with multiple printer models|121.38|CAD|SET|36|50|50|2025-08-20|2025-12-31|Active
+SUP026|PROD000398|SP-TRA-BLA-4913|Motor|High quality motor compatible with multiple printer models|207.13|EUR|LB|17|5|50|2025-08-20|2025-12-31|Discontinued
+SUP043|PROD000399|SP-PRI-LIG-6878|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|229.86|EUR|EA|23|10|5|2025-08-20|2025-12-31|Active
+SUP043|PROD000400|SP-DRU-PHO-7358|Memory|High quality memory compatible with multiple printer models|275.85|USD|EA|48|10|1|2025-08-20|2025-12-31|Discontinued
+SUP034|PROD000401|SP-FUS-TRI-9918|Motor|High quality motor compatible with multiple printer models|57.1|GBP|KG|44|100|1|2025-08-20|2025-12-31|Discontinued
+SUP017|PROD000402|SP-PAP-YEL-9460|Paper Tray|High quality paper tray compatible with multiple printer models|109.74|CAD|LB|57|25|50|2025-08-20|2025-12-31|Active
+SUP033|PROD000403|SP-PRI-LIG-3713|Drum Unit|High quality drum unit compatible with multiple printer models|28.65|CAD|SET|16|5|5|2025-08-20|2025-12-31|Inactive
+SUP039|PROD000404|SP-TON-YEL-7793|Transfer Belt|High quality transfer belt compatible with multiple printer models|217.75|GBP|GAL|37|25|5|2025-08-20|2025-12-31|Discontinued
+SUP011|PROD000405|SP-PAP-BLA-4992|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|174.6|EUR|SET|47|50|1|2025-08-20|2025-12-31|Discontinued
+SUP010|PROD000406|SP-INK-MAG-5231|Print Head|High quality print head compatible with multiple printer models|157.88|GBP|LT|43|100|1|2025-08-20|2025-12-31|Discontinued
+SUP047|PROD000407|SP-FUS-CYA-4548|Memory|High quality memory compatible with multiple printer models|184.31|GBP|LB|17|5|25|2025-08-20|2025-12-31|Discontinued
+SUP010|PROD000408|SP-MOT-MAG-9369|Fuser|High quality fuser compatible with multiple printer models|55.3|CAD|LB|45|50|1|2025-08-20|2025-12-31|Active
+SUP025|PROD000409|SP-PAP-MAG-2778|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|159.67|GBP|SET|45|1|5|2025-08-20|2025-12-31|Inactive
+SUP040|PROD000410|SP-MOT-BLA-9706|Circuit Board|High quality circuit board compatible with multiple printer models|227.19|USD|LB|49|5|50|2025-08-20|2025-12-31|Discontinued
+SUP001|PROD000411|SP-PAP-LIG-7068|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|73.46|GBP|LB|29|50|50|2025-08-20|2025-12-31|Active
+SUP028|PROD000412|SP-PRI-TRI-8817|Drum Unit|High quality drum unit compatible with multiple printer models|273.56|USD|KG|45|50|25|2025-08-20|2025-12-31|Inactive
+SUP013|PROD000413|SP-INK-BLA-9561|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|116.25|EUR|GAL|58|10|25|2025-08-20|2025-12-31|Inactive
+SUP007|PROD000414|SP-PRI-LIG-5155|Fuser|High quality fuser compatible with multiple printer models|257.35|GBP|LT|30|50|10|2025-08-20|2025-12-31|Discontinued
+SUP026|PROD000415|SP-DRU-LIG-8904|Print Head|High quality print head compatible with multiple printer models|114.83|GBP|KG|26|50|10|2025-08-20|2025-12-31|Discontinued
+SUP026|PROD000416|SP-PRI-CYA-4764|Memory|High quality memory compatible with multiple printer models|236.22|EUR|EA|20|50|25|2025-08-20|2025-12-31|Inactive
+SUP036|PROD000417|SP-MOT-BLA-3633|Paper Tray|High quality paper tray compatible with multiple printer models|289.57|USD|EA|59|5|25|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000418|SP-TON-CYA-5310|Drum Unit|High quality drum unit compatible with multiple printer models|115.02|USD|GAL|31|25|50|2025-08-20|2025-12-31|Discontinued
+SUP034|PROD000419|SP-FUS-BLA-3871|Memory|High quality memory compatible with multiple printer models|135.05|EUR|GAL|58|50|10|2025-08-20|2025-12-31|Active
+SUP003|PROD000420|SP-MOT-YEL-3776|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|76.33|USD|SET|12|10|25|2025-08-20|2025-12-31|Inactive
+SUP043|PROD000421|SP-PAP-LIG-4281|Circuit Board|High quality circuit board compatible with multiple printer models|10.51|USD|EA|42|10|50|2025-08-20|2025-12-31|Discontinued
+SUP023|PROD000422|SP-TRA-TRI-4707|Motor|High quality motor compatible with multiple printer models|289.13|GBP|LB|43|1|10|2025-08-20|2025-12-31|Active
+SUP027|PROD000423|SP-CIR-CYA-2185|Circuit Board|High quality circuit board compatible with multiple printer models|92.5|USD|LT|23|50|50|2025-08-20|2025-12-31|Inactive
+SUP045|PROD000424|SP-MEM-LIG-8923|Drum Unit|High quality drum unit compatible with multiple printer models|228.69|GBP|GAL|36|50|1|2025-08-20|2025-12-31|Inactive
+SUP008|PROD000425|SP-FUS-CYA-7269|Drum Unit|High quality drum unit compatible with multiple printer models|205.0|EUR|KG|33|10|50|2025-08-20|2025-12-31|Discontinued
+SUP001|PROD000426|SP-FUS-YEL-5706|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|204.06|CAD|EA|42|5|25|2025-08-20|2025-12-31|Inactive
+SUP023|PROD000427|SP-DRU-TRI-3994|Drum Unit|High quality drum unit compatible with multiple printer models|152.7|EUR|SET|54|5|10|2025-08-20|2025-12-31|Active
+SUP015|PROD000428|SP-DRU-YEL-6833|Print Head|High quality print head compatible with multiple printer models|235.0|USD|EA|50|100|25|2025-08-20|2025-12-31|Discontinued
+SUP001|PROD000429|SP-CIR-BLA-8901|Transfer Belt|High quality transfer belt compatible with multiple printer models|188.47|GBP|LT|24|25|5|2025-08-20|2025-12-31|Discontinued
+SUP018|PROD000430|SP-PAP-YEL-3101|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|146.62|USD|LT|29|25|5|2025-08-20|2025-12-31|Inactive
+SUP008|PROD000431|SP-CIR-LIG-6171|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|204.18|GBP|LT|13|10|10|2025-08-20|2025-12-31|Discontinued
+SUP017|PROD000432|SP-PRI-TRI-4885|Fuser|High quality fuser compatible with multiple printer models|144.57|CAD|KG|18|25|25|2025-08-20|2025-12-31|Active
+SUP027|PROD000433|SP-TRA-PHO-7563|Fuser|High quality fuser compatible with multiple printer models|138.5|EUR|LT|50|5|1|2025-08-20|2025-12-31|Discontinued
+SUP018|PROD000434|SP-DRU-LIG-7240|Drum Unit|High quality drum unit compatible with multiple printer models|48.87|EUR|LB|58|1|5|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000435|SP-PRI-PHO-8972|Fuser|High quality fuser compatible with multiple printer models|79.78|USD|LB|13|100|5|2025-08-20|2025-12-31|Active
+SUP014|PROD000436|SP-FUS-LIG-2577|Memory|High quality memory compatible with multiple printer models|224.9|CAD|KG|30|50|50|2025-08-20|2025-12-31|Inactive
+SUP023|PROD000437|SP-INK-LIG-2986|Transfer Belt|High quality transfer belt compatible with multiple printer models|261.0|EUR|LT|43|100|50|2025-08-20|2025-12-31|Active
+SUP050|PROD000438|SP-FUS-PHO-6326|Circuit Board|High quality circuit board compatible with multiple printer models|149.31|GBP|EA|31|50|10|2025-08-20|2025-12-31|Inactive
+SUP041|PROD000439|SP-PRI-MAG-6527|Paper Tray|High quality paper tray compatible with multiple printer models|191.58|GBP|EA|12|5|10|2025-08-20|2025-12-31|Active
+SUP021|PROD000440|SP-TRA-TRI-5382|Motor|High quality motor compatible with multiple printer models|195.52|CAD|LB|56|10|50|2025-08-20|2025-12-31|Discontinued
+SUP029|PROD000441|SP-PAP-MAG-4012|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|219.96|CAD|GAL|51|100|1|2025-08-20|2025-12-31|Active
+SUP011|PROD000442|SP-PAP-CYA-2565|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|167.23|USD|LB|40|1|1|2025-08-20|2025-12-31|Inactive
+SUP040|PROD000443|SP-PRI-CYA-7387|Fuser|High quality fuser compatible with multiple printer models|73.42|CAD|LB|47|5|5|2025-08-20|2025-12-31|Discontinued
+SUP011|PROD000444|SP-INK-BLA-6846|Transfer Belt|High quality transfer belt compatible with multiple printer models|260.08|GBP|LT|24|50|25|2025-08-20|2025-12-31|Active
+SUP045|PROD000445|SP-CIR-MAG-8480|Motor|High quality motor compatible with multiple printer models|133.87|CAD|KG|37|50|5|2025-08-20|2025-12-31|Active
+SUP029|PROD000446|SP-FUS-PHO-7753|Fuser|High quality fuser compatible with multiple printer models|51.77|USD|EA|40|5|10|2025-08-20|2025-12-31|Inactive
+SUP031|PROD000447|SP-CIR-BLA-9059|Memory|High quality memory compatible with multiple printer models|94.08|GBP|KG|45|5|1|2025-08-20|2025-12-31|Discontinued
+SUP024|PROD000448|SP-DRU-LIG-8161|Paper Tray|High quality paper tray compatible with multiple printer models|79.46|GBP|LB|21|10|1|2025-08-20|2025-12-31|Inactive
+SUP041|PROD000449|SP-DRU-TRI-5664|Circuit Board|High quality circuit board compatible with multiple printer models|243.78|GBP|SET|11|5|5|2025-08-20|2025-12-31|Inactive
+SUP008|PROD000450|SP-MEM-LIG-5458|Motor|High quality motor compatible with multiple printer models|150.64|CAD|EA|16|1|50|2025-08-20|2025-12-31|Active
+SUP012|PROD000451|SP-TON-TRI-5410|Print Head|High quality print head compatible with multiple printer models|216.26|USD|SET|12|5|1|2025-08-20|2025-12-31|Inactive
+SUP014|PROD000452|SP-TRA-LIG-6104|Memory|High quality memory compatible with multiple printer models|299.39|GBP|GAL|57|1|10|2025-08-20|2025-12-31|Active
+SUP049|PROD000453|SP-PRI-BLA-5366|Paper Tray|High quality paper tray compatible with multiple printer models|26.98|GBP|SET|19|10|25|2025-08-20|2025-12-31|Active
+SUP008|PROD000454|SP-DRU-LIG-8257|Drum Unit|High quality drum unit compatible with multiple printer models|222.85|USD|SET|36|100|1|2025-08-20|2025-12-31|Discontinued
+SUP043|PROD000455|SP-DRU-LIG-7375|Fuser|High quality fuser compatible with multiple printer models|281.24|EUR|GAL|53|1|50|2025-08-20|2025-12-31|Discontinued
+SUP008|PROD000456|SP-FUS-LIG-5895|Drum Unit|High quality drum unit compatible with multiple printer models|111.96|USD|GAL|20|1|5|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000457|SP-TRA-BLA-3742|Fuser|High quality fuser compatible with multiple printer models|177.89|GBP|SET|7|1|50|2025-08-20|2025-12-31|Discontinued
+SUP031|PROD000458|SP-MOT-MAG-7084|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|52.35|USD|GAL|46|10|1|2025-08-20|2025-12-31|Active
+SUP023|PROD000459|SP-PRI-CYA-3061|Memory|High quality memory compatible with multiple printer models|74.4|CAD|LB|53|5|1|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000460|SP-TRA-MAG-5107|Light Magenta Ink Cartridge|High quality light magenta ink cartridge compatible with multiple printer models|213.74|CAD|LT|51|25|5|2025-08-20|2025-12-31|Discontinued
+SUP012|PROD000461|SP-CIR-PHO-6303|Memory|High quality memory compatible with multiple printer models|86.94|EUR|EA|40|5|25|2025-08-20|2025-12-31|Inactive
+SUP017|PROD000462|SP-CIR-PHO-8439|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|221.69|USD|LT|30|50|5|2025-08-20|2025-12-31|Inactive
+SUP047|PROD000463|SP-TON-LIG-4110|Circuit Board|High quality circuit board compatible with multiple printer models|206.86|EUR|LT|25|10|25|2025-08-20|2025-12-31|Discontinued
+SUP021|PROD000464|SP-TON-CYA-9572|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|251.54|EUR|SET|9|5|1|2025-08-20|2025-12-31|Inactive
+SUP013|PROD000465|SP-TON-BLA-7366|Memory|High quality memory compatible with multiple printer models|160.58|CAD|EA|30|5|50|2025-08-20|2025-12-31|Discontinued
+SUP005|PROD000466|SP-INK-YEL-9051|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|241.49|USD|KG|42|100|25|2025-08-20|2025-12-31|Inactive
+SUP046|PROD000467|SP-INK-TRI-9667|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|251.32|USD|SET|40|1|1|2025-08-20|2025-12-31|Discontinued
+SUP015|PROD000468|SP-CIR-LIG-4104|Drum Unit|High quality drum unit compatible with multiple printer models|160.69|EUR|LT|47|5|50|2025-08-20|2025-12-31|Discontinued
+SUP036|PROD000469|SP-PAP-CYA-6864|Memory|High quality memory compatible with multiple printer models|212.54|GBP|EA|17|5|50|2025-08-20|2025-12-31|Inactive
+SUP033|PROD000470|SP-TRA-MAG-9747|Motor|High quality motor compatible with multiple printer models|136.24|CAD|KG|42|10|10|2025-08-20|2025-12-31|Inactive
+SUP049|PROD000471|SP-PAP-PHO-4943|Motor|High quality motor compatible with multiple printer models|166.4|GBP|LT|54|10|10|2025-08-20|2025-12-31|Inactive
+SUP029|PROD000472|SP-PAP-BLA-1567|Fuser|High quality fuser compatible with multiple printer models|181.14|EUR|KG|7|10|5|2025-08-20|2025-12-31|Active
+SUP021|PROD000473|SP-INK-TRI-9376|Circuit Board|High quality circuit board compatible with multiple printer models|173.77|EUR|EA|9|25|10|2025-08-20|2025-12-31|Active
+SUP009|PROD000474|SP-FUS-PHO-5093|Drum Unit|High quality drum unit compatible with multiple printer models|81.33|CAD|EA|43|25|50|2025-08-20|2025-12-31|Active
+SUP047|PROD000475|SP-TON-PHO-8905|Print Head|High quality print head compatible with multiple printer models|149.54|USD|LT|48|10|1|2025-08-20|2025-12-31|Discontinued
+SUP037|PROD000476|SP-PAP-CYA-1916|Transfer Belt|High quality transfer belt compatible with multiple printer models|108.28|GBP|LB|14|5|50|2025-08-20|2025-12-31|Active
+SUP041|PROD000477|SP-PAP-BLA-5993|Circuit Board|High quality circuit board compatible with multiple printer models|18.1|EUR|KG|39|100|5|2025-08-20|2025-12-31|Active
+SUP004|PROD000478|SP-PAP-LIG-9269|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|132.98|GBP|SET|15|10|1|2025-08-20|2025-12-31|Inactive
+SUP037|PROD000479|SP-INK-LIG-5301|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|153.53|EUR|SET|37|50|5|2025-08-20|2025-12-31|Inactive
+SUP026|PROD000480|SP-MOT-YEL-9589|Drum Unit|High quality drum unit compatible with multiple printer models|77.23|CAD|LB|27|100|50|2025-08-20|2025-12-31|Active
+SUP008|PROD000481|SP-PAP-LIG-6984|Transfer Belt|High quality transfer belt compatible with multiple printer models|61.99|CAD|LT|48|1|10|2025-08-20|2025-12-31|Active
+SUP023|PROD000482|SP-MOT-LIG-3389|Memory|High quality memory compatible with multiple printer models|19.18|EUR|SET|50|10|5|2025-08-20|2025-12-31|Discontinued
+SUP006|PROD000483|SP-TON-BLA-4982|Motor|High quality motor compatible with multiple printer models|278.45|CAD|EA|28|100|1|2025-08-20|2025-12-31|Inactive
+SUP029|PROD000484|SP-MEM-BLA-6437|Drum Unit|High quality drum unit compatible with multiple printer models|223.55|EUR|SET|41|50|10|2025-08-20|2025-12-31|Discontinued
+SUP031|PROD000485|SP-MOT-MAG-1301|Paper Tray|High quality paper tray compatible with multiple printer models|177.39|USD|KG|17|1|10|2025-08-20|2025-12-31|Active
+SUP045|PROD000486|SP-MOT-TRI-1869|Memory|High quality memory compatible with multiple printer models|198.49|USD|EA|31|100|10|2025-08-20|2025-12-31|Discontinued
+SUP043|PROD000487|SP-TRA-CYA-1312|Fuser|High quality fuser compatible with multiple printer models|261.01|GBP|SET|31|50|1|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000488|SP-MOT-CYA-4054|Drum Unit|High quality drum unit compatible with multiple printer models|153.18|GBP|LT|52|1|1|2025-08-20|2025-12-31|Active
+SUP034|PROD000489|SP-FUS-PHO-9027|Paper Tray|High quality paper tray compatible with multiple printer models|224.84|USD|KG|50|10|10|2025-08-20|2025-12-31|Discontinued
+SUP020|PROD000490|SP-DRU-TRI-2015|Fuser|High quality fuser compatible with multiple printer models|264.32|USD|LT|24|5|5|2025-08-20|2025-12-31|Inactive
+SUP026|PROD000491|SP-PRI-CYA-7262|Circuit Board|High quality circuit board compatible with multiple printer models|288.41|EUR|LB|22|50|5|2025-08-20|2025-12-31|Inactive
+SUP020|PROD000492|SP-MOT-PHO-8359|Circuit Board|High quality circuit board compatible with multiple printer models|44.73|EUR|LT|41|100|5|2025-08-20|2025-12-31|Active
+SUP020|PROD000493|SP-CIR-MAG-8046|Print Head|High quality print head compatible with multiple printer models|198.92|EUR|KG|11|50|50|2025-08-20|2025-12-31|Discontinued
+SUP008|PROD000494|SP-PRI-PHO-3384|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|264.75|GBP|LB|26|25|10|2025-08-20|2025-12-31|Active
+SUP050|PROD000495|SP-DRU-CYA-3155|Print Head|High quality print head compatible with multiple printer models|13.69|CAD|LT|43|50|5|2025-08-20|2025-12-31|Discontinued
+SUP015|PROD000496|SP-DRU-BLA-6886|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|45.41|GBP|GAL|48|10|5|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000497|SP-MEM-MAG-3683|Drum Unit|High quality drum unit compatible with multiple printer models|72.51|GBP|EA|24|25|5|2025-08-20|2025-12-31|Discontinued
+SUP043|PROD000498|SP-DRU-YEL-2083|Print Head|High quality print head compatible with multiple printer models|278.56|GBP|LT|38|100|10|2025-08-20|2025-12-31|Inactive
+SUP016|PROD000499|SP-PAP-LIG-1685|Motor|High quality motor compatible with multiple printer models|222.18|GBP|GAL|27|25|50|2025-08-20|2025-12-31|Discontinued
+SUP037|PROD000500|SP-MOT-BLA-9530|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|140.32|USD|SET|40|50|25|2025-08-20|2025-12-31|Discontinued
+SUP003|PROD000501|SP-CIR-LIG-9456|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|91.6|GBP|KG|56|10|25|2025-08-20|2025-12-31|Active
+SUP028|PROD000502|SP-FUS-BLA-9470|Print Head|High quality print head compatible with multiple printer models|142.28|GBP|EA|53|50|1|2025-08-20|2025-12-31|Active
+SUP050|PROD000503|SP-MOT-MAG-7440|Paper Tray|High quality paper tray compatible with multiple printer models|101.09|USD|SET|36|50|5|2025-08-20|2025-12-31|Inactive
+SUP006|PROD000504|SP-FUS-PHO-3686|Cyan Toner Cartridge|High quality cyan toner cartridge compatible with multiple printer models|39.55|GBP|GAL|30|1|50|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000505|SP-CIR-MAG-7204|Circuit Board|High quality circuit board compatible with multiple printer models|117.89|EUR|KG|43|100|5|2025-08-20|2025-12-31|Active
+SUP010|PROD000506|SP-PRI-BLA-7874|Fuser|High quality fuser compatible with multiple printer models|96.99|GBP|KG|47|5|1|2025-08-20|2025-12-31|Active
+SUP013|PROD000507|SP-INK-TRI-1200|Memory|High quality memory compatible with multiple printer models|152.29|GBP|LT|58|1|50|2025-08-20|2025-12-31|Inactive
+SUP016|PROD000508|SP-DRU-LIG-8434|Paper Tray|High quality paper tray compatible with multiple printer models|135.9|USD|SET|42|10|50|2025-08-20|2025-12-31|Discontinued
+SUP036|PROD000509|SP-DRU-BLA-4028|Print Head|High quality print head compatible with multiple printer models|22.18|CAD|EA|16|1|50|2025-08-20|2025-12-31|Discontinued
+SUP020|PROD000510|SP-TRA-CYA-1803|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|298.15|EUR|GAL|25|50|50|2025-08-20|2025-12-31|Discontinued
+SUP036|PROD000511|SP-PRI-LIG-6901|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|231.93|CAD|KG|31|1|25|2025-08-20|2025-12-31|Discontinued
+SUP005|PROD000512|SP-FUS-LIG-3204|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|102.78|GBP|LT|20|100|5|2025-08-20|2025-12-31|Discontinued
+SUP004|PROD000513|SP-TON-CYA-8924|Motor|High quality motor compatible with multiple printer models|280.55|CAD|LB|45|10|10|2025-08-20|2025-12-31|Discontinued
+SUP037|PROD000514|SP-MOT-PHO-3125|Motor|High quality motor compatible with multiple printer models|171.4|GBP|LB|58|5|50|2025-08-20|2025-12-31|Active
+SUP046|PROD000515|SP-FUS-YEL-1025|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|142.67|USD|GAL|20|50|25|2025-08-20|2025-12-31|Inactive
+SUP003|PROD000516|SP-TRA-PHO-4478|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|208.86|CAD|EA|26|10|50|2025-08-20|2025-12-31|Discontinued
+SUP021|PROD000517|SP-INK-CYA-6460|Transfer Belt|High quality transfer belt compatible with multiple printer models|122.43|USD|SET|19|10|10|2025-08-20|2025-12-31|Discontinued
+SUP031|PROD000518|SP-MEM-BLA-3224|Memory|High quality memory compatible with multiple printer models|51.67|GBP|LT|28|25|25|2025-08-20|2025-12-31|Discontinued
+SUP004|PROD000519|SP-CIR-TRI-6169|Circuit Board|High quality circuit board compatible with multiple printer models|163.54|EUR|LT|50|10|10|2025-08-20|2025-12-31|Active
+SUP010|PROD000520|SP-FUS-BLA-6556|Paper Tray|High quality paper tray compatible with multiple printer models|190.18|EUR|LT|45|25|5|2025-08-20|2025-12-31|Discontinued
+SUP008|PROD000521|SP-FUS-PHO-1518|Fuser|High quality fuser compatible with multiple printer models|127.67|GBP|SET|30|25|10|2025-08-20|2025-12-31|Active
+SUP034|PROD000522|SP-FUS-MAG-2838|Transfer Belt|High quality transfer belt compatible with multiple printer models|236.76|EUR|EA|35|50|1|2025-08-20|2025-12-31|Inactive
+SUP033|PROD000523|SP-PRI-YEL-6572|Memory|High quality memory compatible with multiple printer models|221.33|CAD|KG|16|1|50|2025-08-20|2025-12-31|Discontinued
+SUP009|PROD000524|SP-DRU-BLA-8526|Paper Tray|High quality paper tray compatible with multiple printer models|215.81|USD|EA|26|1|50|2025-08-20|2025-12-31|Active
+SUP022|PROD000525|SP-MEM-BLA-2689|Circuit Board|High quality circuit board compatible with multiple printer models|231.25|CAD|EA|43|10|5|2025-08-20|2025-12-31|Inactive
+SUP013|PROD000526|SP-DRU-TRI-5532|Circuit Board|High quality circuit board compatible with multiple printer models|99.82|GBP|GAL|14|10|5|2025-08-20|2025-12-31|Active
+SUP018|PROD000527|SP-TON-BLA-9422|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|165.49|CAD|KG|16|100|10|2025-08-20|2025-12-31|Discontinued
+SUP016|PROD000528|SP-PRI-CYA-6101|Motor|High quality motor compatible with multiple printer models|268.31|GBP|EA|15|1|25|2025-08-20|2025-12-31|Discontinued
+SUP004|PROD000529|SP-TON-LIG-1881|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|121.21|GBP|LT|29|10|10|2025-08-20|2025-12-31|Active
+SUP046|PROD000530|SP-CIR-CYA-8629|Motor|High quality motor compatible with multiple printer models|44.74|GBP|EA|36|10|25|2025-08-20|2025-12-31|Inactive
+SUP015|PROD000531|SP-DRU-MAG-5227|Transfer Belt|High quality transfer belt compatible with multiple printer models|121.26|CAD|KG|36|25|1|2025-08-20|2025-12-31|Active
+SUP031|PROD000532|SP-TON-PHO-8842|Memory|High quality memory compatible with multiple printer models|254.65|CAD|KG|45|50|5|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000533|SP-PAP-CYA-6339|Circuit Board|High quality circuit board compatible with multiple printer models|196.93|CAD|LT|36|25|50|2025-08-20|2025-12-31|Inactive
+SUP016|PROD000534|SP-MOT-YEL-9977|Print Head|High quality print head compatible with multiple printer models|292.31|GBP|EA|28|5|50|2025-08-20|2025-12-31|Inactive
+SUP028|PROD000535|SP-MOT-PHO-9921|Drum Unit|High quality drum unit compatible with multiple printer models|56.88|USD|GAL|52|50|25|2025-08-20|2025-12-31|Active
+SUP038|PROD000536|SP-MOT-LIG-6330|Circuit Board|High quality circuit board compatible with multiple printer models|34.7|GBP|SET|26|25|1|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000537|SP-MOT-LIG-6364|Memory|High quality memory compatible with multiple printer models|195.62|USD|EA|20|5|50|2025-08-20|2025-12-31|Discontinued
+SUP001|PROD000538|SP-PRI-MAG-8421|Circuit Board|High quality circuit board compatible with multiple printer models|91.69|GBP|SET|20|100|10|2025-08-20|2025-12-31|Inactive
+SUP037|PROD000539|SP-FUS-LIG-6640|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|185.77|GBP|SET|25|1|10|2025-08-20|2025-12-31|Discontinued
+SUP004|PROD000540|SP-INK-PHO-2797|Fuser|High quality fuser compatible with multiple printer models|260.5|EUR|LB|51|50|25|2025-08-20|2025-12-31|Discontinued
+SUP021|PROD000541|SP-PAP-LIG-7251|Paper Tray|High quality paper tray compatible with multiple printer models|166.25|EUR|LB|15|5|50|2025-08-20|2025-12-31|Inactive
+SUP024|PROD000542|SP-PAP-MAG-5726|Print Head|High quality print head compatible with multiple printer models|45.47|USD|GAL|8|5|25|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000543|SP-PRI-CYA-3248|Paper Tray|High quality paper tray compatible with multiple printer models|258.87|GBP|LT|18|25|50|2025-08-20|2025-12-31|Inactive
+SUP036|PROD000544|SP-MEM-LIG-6821|Drum Unit|High quality drum unit compatible with multiple printer models|60.61|USD|LT|38|100|5|2025-08-20|2025-12-31|Discontinued
+SUP033|PROD000545|SP-FUS-LIG-9948|Motor|High quality motor compatible with multiple printer models|113.88|USD|LT|37|100|10|2025-08-20|2025-12-31|Active
+SUP038|PROD000546|SP-MEM-CYA-3327|Circuit Board|High quality circuit board compatible with multiple printer models|295.16|CAD|LB|40|1|50|2025-08-20|2025-12-31|Discontinued
+SUP006|PROD000547|SP-DRU-LIG-2279|Circuit Board|High quality circuit board compatible with multiple printer models|240.63|CAD|LT|10|10|50|2025-08-20|2025-12-31|Active
+SUP031|PROD000548|SP-MEM-LIG-6431|Paper Tray|High quality paper tray compatible with multiple printer models|109.75|CAD|KG|17|1|50|2025-08-20|2025-12-31|Discontinued
+SUP020|PROD000549|SP-MOT-TRI-2006|Memory|High quality memory compatible with multiple printer models|175.96|USD|GAL|25|100|50|2025-08-20|2025-12-31|Active
+SUP019|PROD000550|SP-MEM-CYA-3077|Circuit Board|High quality circuit board compatible with multiple printer models|28.59|CAD|KG|15|50|10|2025-08-20|2025-12-31|Inactive
+SUP017|PROD000551|SP-INK-CYA-3860|Motor|High quality motor compatible with multiple printer models|223.25|GBP|KG|58|5|10|2025-08-20|2025-12-31|Discontinued
+SUP016|PROD000552|SP-MEM-MAG-9640|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|295.31|EUR|LT|59|5|25|2025-08-20|2025-12-31|Inactive
+SUP050|PROD000553|SP-PAP-YEL-8211|Print Head|High quality print head compatible with multiple printer models|67.98|CAD|EA|48|10|1|2025-08-20|2025-12-31|Active
+SUP011|PROD000554|SP-MEM-LIG-8802|Fuser|High quality fuser compatible with multiple printer models|146.01|EUR|LB|50|100|25|2025-08-20|2025-12-31|Inactive
+SUP017|PROD000555|SP-PRI-LIG-1194|Fuser|High quality fuser compatible with multiple printer models|278.59|GBP|LB|50|10|50|2025-08-20|2025-12-31|Discontinued
+SUP003|PROD000556|SP-TON-PHO-8074|Motor|High quality motor compatible with multiple printer models|275.89|CAD|KG|24|10|1|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000557|SP-MOT-LIG-8554|Drum Unit|High quality drum unit compatible with multiple printer models|221.88|EUR|LT|28|100|5|2025-08-20|2025-12-31|Inactive
+SUP036|PROD000558|SP-INK-BLA-2113|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|34.71|USD|GAL|35|10|5|2025-08-20|2025-12-31|Discontinued
+SUP019|PROD000559|SP-FUS-YEL-1557|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|22.71|EUR|LT|47|1|1|2025-08-20|2025-12-31|Active
+SUP039|PROD000560|SP-PRI-LIG-4027|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|80.47|GBP|GAL|11|100|25|2025-08-20|2025-12-31|Inactive
+SUP050|PROD000561|SP-PAP-PHO-5216|Print Head|High quality print head compatible with multiple printer models|235.53|CAD|EA|31|25|10|2025-08-20|2025-12-31|Active
+SUP017|PROD000562|SP-FUS-MAG-8218|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|293.94|EUR|LT|32|5|25|2025-08-20|2025-12-31|Active
+SUP010|PROD000563|SP-CIR-LIG-4578|Motor|High quality motor compatible with multiple printer models|195.13|GBP|GAL|23|1|1|2025-08-20|2025-12-31|Active
+SUP005|PROD000564|SP-MOT-TRI-8305|Light Magenta Ink Cartridge|High quality light magenta ink cartridge compatible with multiple printer models|49.75|USD|EA|49|25|10|2025-08-20|2025-12-31|Active
+SUP045|PROD000565|SP-TRA-LIG-1060|Circuit Board|High quality circuit board compatible with multiple printer models|214.03|GBP|LB|34|25|1|2025-08-20|2025-12-31|Discontinued
+SUP015|PROD000566|SP-INK-LIG-8898|Photo Black Toner Cartridge|High quality photo black toner cartridge compatible with multiple printer models|104.02|CAD|LB|10|100|1|2025-08-20|2025-12-31|Inactive
+SUP035|PROD000567|SP-TRA-CYA-8530|Fuser|High quality fuser compatible with multiple printer models|196.44|EUR|LT|9|25|5|2025-08-20|2025-12-31|Inactive
+SUP045|PROD000568|SP-PAP-CYA-6886|Memory|High quality memory compatible with multiple printer models|30.94|GBP|GAL|19|5|1|2025-08-20|2025-12-31|Active
+SUP002|PROD000569|SP-MOT-YEL-9015|Paper Tray|High quality paper tray compatible with multiple printer models|24.51|CAD|LB|41|25|1|2025-08-20|2025-12-31|Active
+SUP022|PROD000570|SP-INK-PHO-1701|Paper Tray|High quality paper tray compatible with multiple printer models|40.74|GBP|GAL|41|5|50|2025-08-20|2025-12-31|Active
+SUP005|PROD000571|SP-INK-MAG-9010|Light Magenta Ink Cartridge|High quality light magenta ink cartridge compatible with multiple printer models|272.7|USD|SET|51|100|5|2025-08-20|2025-12-31|Active
+SUP012|PROD000572|SP-INK-TRI-2594|Memory|High quality memory compatible with multiple printer models|185.69|USD|EA|14|25|50|2025-08-20|2025-12-31|Discontinued
+SUP015|PROD000573|SP-TON-YEL-7983|Transfer Belt|High quality transfer belt compatible with multiple printer models|244.58|GBP|KG|14|100|50|2025-08-20|2025-12-31|Discontinued
+SUP009|PROD000574|SP-TRA-YEL-1746|Motor|High quality motor compatible with multiple printer models|56.98|USD|EA|24|5|25|2025-08-20|2025-12-31|Active
+SUP045|PROD000575|SP-TRA-MAG-8187|Drum Unit|High quality drum unit compatible with multiple printer models|278.14|USD|SET|13|100|50|2025-08-20|2025-12-31|Inactive
+SUP050|PROD000576|SP-PRI-BLA-8978|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|8.11|USD|GAL|48|50|10|2025-08-20|2025-12-31|Inactive
+SUP045|PROD000577|SP-MEM-MAG-4377|Print Head|High quality print head compatible with multiple printer models|194.1|GBP|LB|22|5|50|2025-08-20|2025-12-31|Discontinued
+SUP003|PROD000578|SP-MOT-MAG-9190|Motor|High quality motor compatible with multiple printer models|285.38|CAD|KG|33|1|50|2025-08-20|2025-12-31|Active
+SUP013|PROD000579|SP-TON-CYA-6929|Circuit Board|High quality circuit board compatible with multiple printer models|155.21|GBP|GAL|49|5|10|2025-08-20|2025-12-31|Active
+SUP013|PROD000580|SP-TON-MAG-8772|Memory|High quality memory compatible with multiple printer models|57.83|USD|EA|48|10|10|2025-08-20|2025-12-31|Active
+SUP028|PROD000581|SP-FUS-PHO-8424|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|223.67|EUR|SET|57|1|25|2025-08-20|2025-12-31|Discontinued
+SUP008|PROD000582|SP-TON-YEL-8287|Motor|High quality motor compatible with multiple printer models|176.44|GBP|SET|54|100|10|2025-08-20|2025-12-31|Active
+SUP050|PROD000583|SP-TON-PHO-4731|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|222.89|EUR|LB|21|1|25|2025-08-20|2025-12-31|Discontinued
+SUP032|PROD000584|SP-INK-LIG-3374|Drum Unit|High quality drum unit compatible with multiple printer models|278.79|GBP|SET|31|10|5|2025-08-20|2025-12-31|Inactive
+SUP047|PROD000585|SP-DRU-PHO-5418|Drum Unit|High quality drum unit compatible with multiple printer models|104.74|USD|GAL|43|1|10|2025-08-20|2025-12-31|Active
+SUP008|PROD000586|SP-MEM-LIG-7852|Print Head|High quality print head compatible with multiple printer models|229.53|EUR|KG|45|5|50|2025-08-20|2025-12-31|Active
+SUP037|PROD000587|SP-CIR-YEL-2416|Paper Tray|High quality paper tray compatible with multiple printer models|257.94|GBP|SET|44|25|25|2025-08-20|2025-12-31|Inactive
+SUP001|PROD000588|SP-PAP-YEL-5060|Transfer Belt|High quality transfer belt compatible with multiple printer models|133.66|EUR|LT|16|50|1|2025-08-20|2025-12-31|Inactive
+SUP003|PROD000589|SP-INK-LIG-9261|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|162.14|GBP|GAL|59|1|25|2025-08-20|2025-12-31|Inactive
+SUP016|PROD000590|SP-TON-BLA-7662|Drum Unit|High quality drum unit compatible with multiple printer models|45.01|CAD|SET|48|1|1|2025-08-20|2025-12-31|Inactive
+SUP043|PROD000591|SP-FUS-MAG-8524|Motor|High quality motor compatible with multiple printer models|225.69|USD|LB|36|5|25|2025-08-20|2025-12-31|Active
+SUP024|PROD000592|SP-MEM-BLA-2158|Paper Tray|High quality paper tray compatible with multiple printer models|268.66|CAD|LT|9|10|25|2025-08-20|2025-12-31|Inactive
+SUP045|PROD000593|SP-MOT-YEL-2326|Motor|High quality motor compatible with multiple printer models|264.96|USD|LT|50|10|1|2025-08-20|2025-12-31|Active
+SUP025|PROD000594|SP-TRA-LIG-1669|Transfer Belt|High quality transfer belt compatible with multiple printer models|113.72|USD|LT|52|5|5|2025-08-20|2025-12-31|Inactive
+SUP016|PROD000595|SP-CIR-CYA-8839|Motor|High quality motor compatible with multiple printer models|262.1|EUR|GAL|55|5|10|2025-08-20|2025-12-31|Inactive
+SUP018|PROD000596|SP-CIR-LIG-5540|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|115.6|GBP|LB|39|50|1|2025-08-20|2025-12-31|Inactive
+SUP046|PROD000597|SP-CIR-TRI-8405|Motor|High quality motor compatible with multiple printer models|114.22|USD|SET|36|1|1|2025-08-20|2025-12-31|Inactive
+SUP012|PROD000598|SP-FUS-CYA-2791|Print Head|High quality print head compatible with multiple printer models|87.12|EUR|LB|16|5|50|2025-08-20|2025-12-31|Discontinued
+SUP002|PROD000599|SP-FUS-LIG-9870|Print Head|High quality print head compatible with multiple printer models|145.32|GBP|LB|54|100|1|2025-08-20|2025-12-31|Inactive
+SUP013|PROD000600|SP-TON-BLA-4806|Circuit Board|High quality circuit board compatible with multiple printer models|195.52|GBP|LT|28|100|10|2025-08-20|2025-12-31|Inactive
+SUP038|PROD000601|SP-CIR-LIG-8503|Fuser|High quality fuser compatible with multiple printer models|172.76|CAD|SET|57|10|5|2025-08-20|2025-12-31|Inactive
+SUP024|PROD000602|SP-FUS-BLA-3430|Transfer Belt|High quality transfer belt compatible with multiple printer models|89.6|EUR|LT|17|100|50|2025-08-20|2025-12-31|Inactive
+SUP012|PROD000603|SP-PRI-MAG-3641|Drum Unit|High quality drum unit compatible with multiple printer models|40.36|CAD|LT|15|25|10|2025-08-20|2025-12-31|Inactive
+SUP012|PROD000604|SP-DRU-BLA-6192|Transfer Belt|High quality transfer belt compatible with multiple printer models|49.49|GBP|LT|17|50|10|2025-08-20|2025-12-31|Active
+SUP002|PROD000605|SP-PAP-LIG-3381|Memory|High quality memory compatible with multiple printer models|278.77|EUR|EA|54|50|50|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000606|SP-FUS-LIG-5748|Motor|High quality motor compatible with multiple printer models|202.05|GBP|KG|51|1|25|2025-08-20|2025-12-31|Active
+SUP009|PROD000607|SP-CIR-CYA-6047|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|187.54|EUR|LB|29|1|10|2025-08-20|2025-12-31|Active
+SUP039|PROD000608|SP-DRU-YEL-5553|Drum Unit|High quality drum unit compatible with multiple printer models|12.62|GBP|GAL|49|1|50|2025-08-20|2025-12-31|Inactive
+SUP013|PROD000609|SP-MEM-PHO-9381|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|122.87|GBP|KG|31|10|1|2025-08-20|2025-12-31|Inactive
+SUP023|PROD000610|SP-TRA-TRI-8300|Circuit Board|High quality circuit board compatible with multiple printer models|31.74|GBP|GAL|33|25|10|2025-08-20|2025-12-31|Active
+SUP047|PROD000611|SP-PAP-LIG-3286|Motor|High quality motor compatible with multiple printer models|181.78|EUR|SET|26|25|50|2025-08-20|2025-12-31|Inactive
+SUP005|PROD000612|SP-MOT-LIG-2449|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|193.8|CAD|LB|18|50|25|2025-08-20|2025-12-31|Discontinued
+SUP037|PROD000613|SP-PRI-YEL-4047|Paper Tray|High quality paper tray compatible with multiple printer models|91.09|GBP|EA|59|10|50|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000614|SP-CIR-LIG-4678|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|51.27|CAD|GAL|60|100|25|2025-08-20|2025-12-31|Active
+SUP042|PROD000615|SP-FUS-LIG-3938|Memory|High quality memory compatible with multiple printer models|272.59|EUR|EA|14|10|25|2025-08-20|2025-12-31|Active
+SUP039|PROD000616|SP-TRA-LIG-8144|Fuser|High quality fuser compatible with multiple printer models|190.62|GBP|GAL|59|1|10|2025-08-20|2025-12-31|Discontinued
+SUP047|PROD000617|SP-MOT-BLA-5252|Print Head|High quality print head compatible with multiple printer models|177.0|EUR|KG|36|100|5|2025-08-20|2025-12-31|Inactive
+SUP011|PROD000618|SP-INK-TRI-6917|Paper Tray|High quality paper tray compatible with multiple printer models|193.05|CAD|EA|25|10|50|2025-08-20|2025-12-31|Discontinued
+SUP005|PROD000619|SP-CIR-YEL-4002|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|165.84|CAD|GAL|58|10|10|2025-08-20|2025-12-31|Discontinued
+SUP045|PROD000620|SP-TRA-CYA-9755|Motor|High quality motor compatible with multiple printer models|109.37|EUR|EA|15|50|10|2025-08-20|2025-12-31|Inactive
+SUP050|PROD000621|SP-MEM-LIG-6575|Print Head|High quality print head compatible with multiple printer models|36.1|EUR|LT|21|5|50|2025-08-20|2025-12-31|Discontinued
+SUP045|PROD000622|SP-CIR-CYA-7837|Memory|High quality memory compatible with multiple printer models|275.3|USD|SET|8|25|10|2025-08-20|2025-12-31|Inactive
+SUP045|PROD000623|SP-TRA-MAG-8240|Motor|High quality motor compatible with multiple printer models|159.79|CAD|SET|52|10|1|2025-08-20|2025-12-31|Discontinued
+SUP008|PROD000624|SP-DRU-MAG-3332|Drum Unit|High quality drum unit compatible with multiple printer models|96.37|EUR|SET|12|25|1|2025-08-20|2025-12-31|Active
+SUP002|PROD000625|SP-MEM-LIG-1696|Drum Unit|High quality drum unit compatible with multiple printer models|37.69|USD|LB|14|10|1|2025-08-20|2025-12-31|Active
+SUP020|PROD000626|SP-INK-CYA-3028|Motor|High quality motor compatible with multiple printer models|66.38|EUR|SET|49|10|1|2025-08-20|2025-12-31|Active
+SUP010|PROD000627|SP-FUS-PHO-6770|Print Head|High quality print head compatible with multiple printer models|257.4|EUR|LT|43|1|1|2025-08-20|2025-12-31|Discontinued
+SUP049|PROD000628|SP-INK-YEL-4138|Fuser|High quality fuser compatible with multiple printer models|56.49|USD|GAL|13|5|50|2025-08-20|2025-12-31|Discontinued
+SUP031|PROD000629|SP-TRA-MAG-8203|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|251.4|GBP|LB|20|50|5|2025-08-20|2025-12-31|Inactive
+SUP008|PROD000630|SP-TRA-CYA-8633|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|151.76|CAD|GAL|25|50|1|2025-08-20|2025-12-31|Active
+SUP021|PROD000631|SP-MEM-CYA-7304|Fuser|High quality fuser compatible with multiple printer models|140.33|CAD|GAL|60|25|5|2025-08-20|2025-12-31|Discontinued
+SUP027|PROD000632|SP-FUS-LIG-4093|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|282.08|CAD|SET|7|100|25|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000633|SP-PAP-LIG-9563|Cyan Toner Cartridge|High quality cyan toner cartridge compatible with multiple printer models|48.14|GBP|GAL|44|1|5|2025-08-20|2025-12-31|Active
+SUP024|PROD000634|SP-DRU-PHO-4281|Motor|High quality motor compatible with multiple printer models|254.13|GBP|EA|21|25|25|2025-08-20|2025-12-31|Inactive
+SUP049|PROD000635|SP-MOT-TRI-7557|Transfer Belt|High quality transfer belt compatible with multiple printer models|145.88|GBP|LB|39|10|5|2025-08-20|2025-12-31|Inactive
+SUP007|PROD000636|SP-TON-TRI-9017|Memory|High quality memory compatible with multiple printer models|73.85|EUR|EA|13|100|1|2025-08-20|2025-12-31|Active
+SUP032|PROD000637|SP-INK-MAG-7269|Motor|High quality motor compatible with multiple printer models|205.68|EUR|KG|46|50|1|2025-08-20|2025-12-31|Active
+SUP043|PROD000638|SP-CIR-LIG-8635|Drum Unit|High quality drum unit compatible with multiple printer models|92.3|GBP|LB|39|10|50|2025-08-20|2025-12-31|Inactive
+SUP035|PROD000639|SP-CIR-BLA-1517|Paper Tray|High quality paper tray compatible with multiple printer models|264.75|USD|LB|35|10|25|2025-08-20|2025-12-31|Inactive
+SUP030|PROD000640|SP-INK-BLA-3897|Circuit Board|High quality circuit board compatible with multiple printer models|199.86|CAD|GAL|17|25|25|2025-08-20|2025-12-31|Active
+SUP020|PROD000641|SP-PAP-LIG-2792|Motor|High quality motor compatible with multiple printer models|204.45|GBP|LB|42|5|50|2025-08-20|2025-12-31|Active
+SUP026|PROD000642|SP-FUS-LIG-7189|Motor|High quality motor compatible with multiple printer models|204.88|CAD|KG|10|1|50|2025-08-20|2025-12-31|Active
+SUP009|PROD000643|SP-TRA-PHO-1440|Transfer Belt|High quality transfer belt compatible with multiple printer models|117.88|GBP|KG|29|25|10|2025-08-20|2025-12-31|Active
+SUP043|PROD000644|SP-DRU-YEL-4844|Fuser|High quality fuser compatible with multiple printer models|180.19|USD|KG|14|10|5|2025-08-20|2025-12-31|Active
+SUP035|PROD000645|SP-TRA-BLA-8551|Paper Tray|High quality paper tray compatible with multiple printer models|173.0|GBP|KG|8|100|25|2025-08-20|2025-12-31|Discontinued
+SUP002|PROD000646|SP-TRA-LIG-7394|Transfer Belt|High quality transfer belt compatible with multiple printer models|174.32|GBP|EA|51|100|5|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000647|SP-CIR-PHO-3730|Motor|High quality motor compatible with multiple printer models|94.05|GBP|SET|38|100|1|2025-08-20|2025-12-31|Discontinued
+SUP014|PROD000648|SP-FUS-TRI-1778|Fuser|High quality fuser compatible with multiple printer models|298.88|GBP|SET|46|100|1|2025-08-20|2025-12-31|Discontinued
+SUP038|PROD000649|SP-TON-PHO-5478|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|131.56|CAD|EA|48|10|50|2025-08-20|2025-12-31|Inactive
+SUP028|PROD000650|SP-CIR-PHO-4278|Paper Tray|High quality paper tray compatible with multiple printer models|124.27|GBP|GAL|55|50|5|2025-08-20|2025-12-31|Active
+SUP041|PROD000651|SP-CIR-MAG-9178|Drum Unit|High quality drum unit compatible with multiple printer models|200.27|GBP|KG|47|50|50|2025-08-20|2025-12-31|Inactive
+SUP037|PROD000652|SP-INK-YEL-6968|Memory|High quality memory compatible with multiple printer models|49.43|EUR|GAL|50|10|25|2025-08-20|2025-12-31|Inactive
+SUP021|PROD000653|SP-TON-YEL-7757|Fuser|High quality fuser compatible with multiple printer models|248.16|EUR|KG|50|50|5|2025-08-20|2025-12-31|Inactive
+SUP016|PROD000654|SP-TON-MAG-4144|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|240.32|CAD|LB|38|50|25|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000655|SP-INK-YEL-3610|Fuser|High quality fuser compatible with multiple printer models|46.1|CAD|KG|49|50|5|2025-08-20|2025-12-31|Discontinued
+SUP003|PROD000656|SP-MEM-BLA-1906|Photo Black Toner Cartridge|High quality photo black toner cartridge compatible with multiple printer models|182.86|USD|LB|30|100|1|2025-08-20|2025-12-31|Inactive
+SUP047|PROD000657|SP-PRI-YEL-2833|Motor|High quality motor compatible with multiple printer models|221.93|USD|LT|49|50|50|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000658|SP-TON-YEL-3003|Transfer Belt|High quality transfer belt compatible with multiple printer models|102.8|GBP|GAL|54|5|25|2025-08-20|2025-12-31|Active
+SUP010|PROD000659|SP-TON-MAG-4507|Fuser|High quality fuser compatible with multiple printer models|135.2|CAD|LT|10|25|50|2025-08-20|2025-12-31|Inactive
+SUP045|PROD000660|SP-TON-PHO-9941|Paper Tray|High quality paper tray compatible with multiple printer models|145.6|EUR|KG|57|5|10|2025-08-20|2025-12-31|Inactive
+SUP046|PROD000661|SP-TRA-TRI-1345|Motor|High quality motor compatible with multiple printer models|16.22|USD|GAL|57|100|5|2025-08-20|2025-12-31|Inactive
+SUP036|PROD000662|SP-PAP-TRI-6945|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|258.14|GBP|EA|32|10|10|2025-08-20|2025-12-31|Active
+SUP049|PROD000663|SP-DRU-TRI-4446|Print Head|High quality print head compatible with multiple printer models|275.26|CAD|GAL|33|1|10|2025-08-20|2025-12-31|Active
+SUP050|PROD000664|SP-MEM-LIG-7765|Transfer Belt|High quality transfer belt compatible with multiple printer models|216.9|USD|SET|51|10|50|2025-08-20|2025-12-31|Active
+SUP023|PROD000665|SP-PAP-PHO-8426|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|194.55|EUR|GAL|35|100|5|2025-08-20|2025-12-31|Active
+SUP026|PROD000666|SP-DRU-TRI-6140|Motor|High quality motor compatible with multiple printer models|30.17|EUR|SET|40|100|5|2025-08-20|2025-12-31|Discontinued
+SUP044|PROD000667|SP-PAP-PHO-8397|Memory|High quality memory compatible with multiple printer models|262.8|EUR|KG|18|100|50|2025-08-20|2025-12-31|Inactive
+SUP019|PROD000668|SP-DRU-CYA-7791|Transfer Belt|High quality transfer belt compatible with multiple printer models|59.47|GBP|LT|21|1|1|2025-08-20|2025-12-31|Discontinued
+SUP042|PROD000669|SP-MOT-YEL-2457|Memory|High quality memory compatible with multiple printer models|64.28|EUR|EA|32|50|25|2025-08-20|2025-12-31|Discontinued
+SUP017|PROD000670|SP-PRI-CYA-7028|Print Head|High quality print head compatible with multiple printer models|284.48|USD|EA|52|50|25|2025-08-20|2025-12-31|Inactive
+SUP044|PROD000671|SP-MEM-CYA-4677|Drum Unit|High quality drum unit compatible with multiple printer models|62.01|CAD|KG|54|25|25|2025-08-20|2025-12-31|Active
+SUP028|PROD000672|SP-DRU-YEL-5636|Drum Unit|High quality drum unit compatible with multiple printer models|128.98|GBP|SET|8|10|10|2025-08-20|2025-12-31|Active
+SUP040|PROD000673|SP-MEM-YEL-7056|Motor|High quality motor compatible with multiple printer models|207.16|GBP|EA|7|25|5|2025-08-20|2025-12-31|Inactive
+SUP045|PROD000674|SP-PAP-YEL-7283|Paper Tray|High quality paper tray compatible with multiple printer models|222.4|CAD|EA|13|50|1|2025-08-20|2025-12-31|Active
+SUP022|PROD000675|SP-DRU-LIG-6804|Motor|High quality motor compatible with multiple printer models|282.15|USD|EA|23|50|50|2025-08-20|2025-12-31|Inactive
+SUP020|PROD000676|SP-PAP-PHO-3166|Circuit Board|High quality circuit board compatible with multiple printer models|18.08|EUR|KG|17|50|25|2025-08-20|2025-12-31|Inactive
+SUP030|PROD000677|SP-PRI-CYA-6198|Circuit Board|High quality circuit board compatible with multiple printer models|133.27|CAD|EA|27|1|5|2025-08-20|2025-12-31|Inactive
+SUP018|PROD000678|SP-TRA-LIG-5635|Fuser|High quality fuser compatible with multiple printer models|186.19|CAD|LT|27|25|5|2025-08-20|2025-12-31|Inactive
+SUP048|PROD000679|SP-MEM-MAG-8208|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|49.68|EUR|SET|9|25|10|2025-08-20|2025-12-31|Active
+SUP046|PROD000680|SP-MEM-LIG-2900|Memory|High quality memory compatible with multiple printer models|17.98|CAD|GAL|42|25|25|2025-08-20|2025-12-31|Inactive
+SUP008|PROD000681|SP-PRI-CYA-6727|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|261.23|EUR|SET|54|50|10|2025-08-20|2025-12-31|Discontinued
+SUP043|PROD000682|SP-MOT-YEL-1067|Circuit Board|High quality circuit board compatible with multiple printer models|231.44|EUR|LB|11|5|25|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000683|SP-TRA-BLA-5657|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|115.82|USD|KG|16|1|1|2025-08-20|2025-12-31|Inactive
+SUP046|PROD000684|SP-MEM-LIG-5412|Motor|High quality motor compatible with multiple printer models|199.44|CAD|EA|48|50|25|2025-08-20|2025-12-31|Inactive
+SUP047|PROD000685|SP-MOT-MAG-4463|Tri-Color Ink Cartridge|High quality tri-color ink cartridge compatible with multiple printer models|101.0|USD|GAL|11|50|50|2025-08-20|2025-12-31|Inactive
+SUP006|PROD000686|SP-PAP-TRI-3916|Drum Unit|High quality drum unit compatible with multiple printer models|289.71|GBP|EA|8|5|5|2025-08-20|2025-12-31|Inactive
+SUP050|PROD000687|SP-PAP-TRI-3525|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|150.3|GBP|GAL|58|10|50|2025-08-20|2025-12-31|Active
+SUP023|PROD000688|SP-TON-PHO-9399|Drum Unit|High quality drum unit compatible with multiple printer models|149.94|GBP|LB|24|50|50|2025-08-20|2025-12-31|Inactive
+SUP006|PROD000689|SP-PAP-PHO-4053|Paper Tray|High quality paper tray compatible with multiple printer models|191.41|USD|EA|39|10|25|2025-08-20|2025-12-31|Discontinued
+SUP015|PROD000690|SP-PRI-LIG-9638|Circuit Board|High quality circuit board compatible with multiple printer models|30.68|GBP|LB|12|25|10|2025-08-20|2025-12-31|Active
+SUP009|PROD000691|SP-FUS-YEL-9570|Paper Tray|High quality paper tray compatible with multiple printer models|92.86|USD|LT|11|1|50|2025-08-20|2025-12-31|Active
+SUP033|PROD000692|SP-PAP-LIG-2548|Memory|High quality memory compatible with multiple printer models|200.28|CAD|KG|23|50|1|2025-08-20|2025-12-31|Discontinued
+SUP002|PROD000693|SP-TON-LIG-3941|Print Head|High quality print head compatible with multiple printer models|253.81|USD|EA|33|100|10|2025-08-20|2025-12-31|Inactive
+SUP038|PROD000694|SP-MEM-LIG-5342|Transfer Belt|High quality transfer belt compatible with multiple printer models|290.21|EUR|SET|18|1|50|2025-08-20|2025-12-31|Inactive
+SUP044|PROD000695|SP-TON-LIG-9755|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|122.1|USD|SET|48|25|25|2025-08-20|2025-12-31|Discontinued
+SUP026|PROD000696|SP-MOT-LIG-5961|Motor|High quality motor compatible with multiple printer models|245.05|CAD|GAL|50|100|25|2025-08-20|2025-12-31|Inactive
+SUP006|PROD000697|SP-PRI-MAG-1227|Drum Unit|High quality drum unit compatible with multiple printer models|38.89|USD|GAL|19|1|5|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000698|SP-PRI-YEL-8139|Circuit Board|High quality circuit board compatible with multiple printer models|62.12|CAD|LB|16|25|25|2025-08-20|2025-12-31|Active
+SUP008|PROD000699|SP-PRI-MAG-8295|Memory|High quality memory compatible with multiple printer models|144.61|GBP|LT|22|5|10|2025-08-20|2025-12-31|Discontinued
+SUP026|PROD000700|SP-INK-PHO-1129|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|293.96|GBP|GAL|44|50|50|2025-08-20|2025-12-31|Inactive
+SUP003|PROD000701|SP-MEM-LIG-8964|Circuit Board|High quality circuit board compatible with multiple printer models|179.76|GBP|SET|52|1|50|2025-08-20|2025-12-31|Active
+SUP028|PROD000702|SP-MOT-PHO-2040|Fuser|High quality fuser compatible with multiple printer models|268.5|GBP|LB|14|25|50|2025-08-20|2025-12-31|Discontinued
+SUP023|PROD000703|SP-MEM-LIG-1340|Print Head|High quality print head compatible with multiple printer models|90.67|EUR|LB|29|25|5|2025-08-20|2025-12-31|Discontinued
+SUP015|PROD000704|SP-MOT-PHO-8675|Print Head|High quality print head compatible with multiple printer models|265.64|GBP|LB|60|100|10|2025-08-20|2025-12-31|Inactive
+SUP011|PROD000705|SP-MOT-YEL-5627|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|43.94|EUR|SET|45|25|1|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000706|SP-FUS-YEL-4431|Circuit Board|High quality circuit board compatible with multiple printer models|19.82|USD|KG|23|10|5|2025-08-20|2025-12-31|Active
+SUP033|PROD000707|SP-INK-CYA-6533|Paper Tray|High quality paper tray compatible with multiple printer models|39.5|EUR|EA|42|5|25|2025-08-20|2025-12-31|Inactive
+SUP022|PROD000708|SP-TRA-BLA-5382|Print Head|High quality print head compatible with multiple printer models|256.89|USD|GAL|10|25|25|2025-08-20|2025-12-31|Active
+SUP007|PROD000709|SP-MOT-CYA-1687|Circuit Board|High quality circuit board compatible with multiple printer models|36.98|USD|SET|30|5|10|2025-08-20|2025-12-31|Discontinued
+SUP029|PROD000710|SP-CIR-LIG-2626|Print Head|High quality print head compatible with multiple printer models|196.24|CAD|SET|14|5|25|2025-08-20|2025-12-31|Inactive
+SUP050|PROD000711|SP-INK-YEL-8760|Transfer Belt|High quality transfer belt compatible with multiple printer models|90.3|EUR|EA|24|10|25|2025-08-20|2025-12-31|Inactive
+SUP041|PROD000712|SP-DRU-MAG-9677|Paper Tray|High quality paper tray compatible with multiple printer models|237.43|EUR|LB|33|25|25|2025-08-20|2025-12-31|Discontinued
+SUP044|PROD000713|SP-TRA-BLA-8251|Print Head|High quality print head compatible with multiple printer models|232.41|USD|EA|28|10|25|2025-08-20|2025-12-31|Active
+SUP028|PROD000714|SP-INK-LIG-1607|Print Head|High quality print head compatible with multiple printer models|271.33|USD|GAL|52|100|50|2025-08-20|2025-12-31|Inactive
+SUP027|PROD000715|SP-PAP-TRI-6139|Transfer Belt|High quality transfer belt compatible with multiple printer models|8.31|CAD|LT|46|5|25|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000716|SP-DRU-LIG-6656|Paper Tray|High quality paper tray compatible with multiple printer models|233.96|CAD|EA|9|50|10|2025-08-20|2025-12-31|Inactive
+SUP047|PROD000717|SP-PRI-TRI-4501|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|159.26|EUR|EA|8|50|50|2025-08-20|2025-12-31|Inactive
+SUP016|PROD000718|SP-FUS-LIG-9278|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|253.42|CAD|GAL|39|10|1|2025-08-20|2025-12-31|Active
+SUP049|PROD000719|SP-TON-LIG-5881|Motor|High quality motor compatible with multiple printer models|222.63|GBP|KG|22|100|50|2025-08-20|2025-12-31|Discontinued
+SUP046|PROD000720|SP-CIR-YEL-6739|Fuser|High quality fuser compatible with multiple printer models|89.64|EUR|GAL|31|50|5|2025-08-20|2025-12-31|Active
+SUP021|PROD000721|SP-CIR-YEL-6919|Memory|High quality memory compatible with multiple printer models|34.8|GBP|LB|12|1|1|2025-08-20|2025-12-31|Inactive
+SUP009|PROD000722|SP-MEM-YEL-8309|Photo Black Toner Cartridge|High quality photo black toner cartridge compatible with multiple printer models|204.98|GBP|LT|42|50|25|2025-08-20|2025-12-31|Inactive
+SUP038|PROD000723|SP-MEM-LIG-8210|Memory|High quality memory compatible with multiple printer models|221.11|GBP|SET|16|50|5|2025-08-20|2025-12-31|Inactive
+SUP046|PROD000724|SP-MEM-MAG-9408|Circuit Board|High quality circuit board compatible with multiple printer models|40.7|EUR|LB|37|1|5|2025-08-20|2025-12-31|Discontinued
+SUP024|PROD000725|SP-TON-LIG-2807|Photo Black Toner Cartridge|High quality photo black toner cartridge compatible with multiple printer models|174.09|USD|LT|16|1|10|2025-08-20|2025-12-31|Inactive
+SUP024|PROD000726|SP-FUS-TRI-8961|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|47.78|GBP|EA|26|10|5|2025-08-20|2025-12-31|Active
+SUP048|PROD000727|SP-MEM-BLA-3004|Circuit Board|High quality circuit board compatible with multiple printer models|108.49|USD|LB|37|50|10|2025-08-20|2025-12-31|Discontinued
+SUP029|PROD000728|SP-TRA-LIG-8786|Motor|High quality motor compatible with multiple printer models|45.04|EUR|LT|47|25|25|2025-08-20|2025-12-31|Discontinued
+SUP029|PROD000729|SP-PRI-PHO-2463|Motor|High quality motor compatible with multiple printer models|201.35|GBP|LB|21|25|10|2025-08-20|2025-12-31|Discontinued
+SUP003|PROD000730|SP-MEM-TRI-2450|Print Head|High quality print head compatible with multiple printer models|213.91|CAD|LT|48|1|50|2025-08-20|2025-12-31|Active
+SUP013|PROD000731|SP-MOT-BLA-9548|Drum Unit|High quality drum unit compatible with multiple printer models|226.65|USD|EA|49|50|5|2025-08-20|2025-12-31|Active
+SUP018|PROD000732|SP-DRU-YEL-8278|Photo Black Toner Cartridge|High quality photo black toner cartridge compatible with multiple printer models|124.12|USD|LB|8|10|25|2025-08-20|2025-12-31|Active
+SUP027|PROD000733|SP-INK-PHO-7258|Fuser|High quality fuser compatible with multiple printer models|32.75|USD|LT|17|10|5|2025-08-20|2025-12-31|Active
+SUP017|PROD000734|SP-TON-MAG-6026|Paper Tray|High quality paper tray compatible with multiple printer models|205.5|USD|LT|27|5|1|2025-08-20|2025-12-31|Discontinued
+SUP004|PROD000735|SP-FUS-LIG-2617|Transfer Belt|High quality transfer belt compatible with multiple printer models|47.87|CAD|KG|31|1|1|2025-08-20|2025-12-31|Active
+SUP016|PROD000736|SP-MOT-YEL-9076|Circuit Board|High quality circuit board compatible with multiple printer models|227.19|GBP|EA|24|1|10|2025-08-20|2025-12-31|Inactive
+SUP036|PROD000737|SP-PAP-CYA-8932|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|192.25|USD|KG|42|50|1|2025-08-20|2025-12-31|Active
+SUP049|PROD000738|SP-CIR-MAG-5990|Motor|High quality motor compatible with multiple printer models|125.57|USD|GAL|39|5|5|2025-08-20|2025-12-31|Inactive
+SUP035|PROD000739|SP-PRI-YEL-9806|Paper Tray|High quality paper tray compatible with multiple printer models|288.63|GBP|EA|7|25|50|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000740|SP-PRI-BLA-1985|Memory|High quality memory compatible with multiple printer models|86.34|CAD|GAL|31|10|5|2025-08-20|2025-12-31|Discontinued
+SUP033|PROD000741|SP-FUS-BLA-3644|Circuit Board|High quality circuit board compatible with multiple printer models|171.54|CAD|EA|32|100|1|2025-08-20|2025-12-31|Active
+SUP047|PROD000742|SP-CIR-TRI-8077|Drum Unit|High quality drum unit compatible with multiple printer models|185.46|CAD|GAL|28|100|10|2025-08-20|2025-12-31|Discontinued
+SUP029|PROD000743|SP-FUS-YEL-6269|Transfer Belt|High quality transfer belt compatible with multiple printer models|67.91|CAD|EA|51|5|1|2025-08-20|2025-12-31|Discontinued
+SUP031|PROD000744|SP-INK-BLA-3843|Paper Tray|High quality paper tray compatible with multiple printer models|169.39|GBP|LB|41|1|1|2025-08-20|2025-12-31|Discontinued
+SUP002|PROD000745|SP-MEM-CYA-6783|Paper Tray|High quality paper tray compatible with multiple printer models|249.27|CAD|LB|18|100|1|2025-08-20|2025-12-31|Active
+SUP030|PROD000746|SP-TRA-YEL-8283|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|224.47|CAD|GAL|52|10|5|2025-08-20|2025-12-31|Active
+SUP040|PROD000747|SP-FUS-YEL-4838|Memory|High quality memory compatible with multiple printer models|290.38|USD|KG|38|100|50|2025-08-20|2025-12-31|Active
+SUP001|PROD000748|SP-DRU-LIG-2817|Fuser|High quality fuser compatible with multiple printer models|173.31|GBP|SET|42|5|50|2025-08-20|2025-12-31|Discontinued
+SUP044|PROD000749|SP-MOT-MAG-2070|Motor|High quality motor compatible with multiple printer models|43.69|USD|SET|23|50|5|2025-08-20|2025-12-31|Discontinued
+SUP047|PROD000750|SP-FUS-YEL-1378|Circuit Board|High quality circuit board compatible with multiple printer models|186.64|GBP|EA|34|100|1|2025-08-20|2025-12-31|Inactive
+SUP028|PROD000751|SP-PAP-TRI-2994|Circuit Board|High quality circuit board compatible with multiple printer models|143.17|CAD|LT|55|1|5|2025-08-20|2025-12-31|Active
+SUP018|PROD000752|SP-PAP-LIG-6181|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|63.2|USD|LT|58|1|5|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000753|SP-TON-YEL-4225|Print Head|High quality print head compatible with multiple printer models|102.78|USD|GAL|47|1|1|2025-08-20|2025-12-31|Inactive
+SUP028|PROD000754|SP-INK-PHO-5102|Drum Unit|High quality drum unit compatible with multiple printer models|37.7|EUR|KG|60|1|10|2025-08-20|2025-12-31|Discontinued
+SUP016|PROD000755|SP-TON-LIG-2567|Memory|High quality memory compatible with multiple printer models|176.2|USD|EA|9|25|10|2025-08-20|2025-12-31|Discontinued
+SUP005|PROD000756|SP-PRI-BLA-8240|Tri-Color Ink Cartridge|High quality tri-color ink cartridge compatible with multiple printer models|185.55|GBP|EA|13|100|1|2025-08-20|2025-12-31|Discontinued
+SUP004|PROD000757|SP-FUS-LIG-7581|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|74.52|USD|LB|31|25|25|2025-08-20|2025-12-31|Discontinued
+SUP040|PROD000758|SP-TON-PHO-1425|Memory|High quality memory compatible with multiple printer models|158.05|EUR|EA|13|1|50|2025-08-20|2025-12-31|Discontinued
+SUP005|PROD000759|SP-MOT-YEL-3064|Circuit Board|High quality circuit board compatible with multiple printer models|81.34|GBP|LB|53|50|25|2025-08-20|2025-12-31|Active
+SUP016|PROD000760|SP-PRI-BLA-1991|Print Head|High quality print head compatible with multiple printer models|97.62|GBP|LT|48|10|10|2025-08-20|2025-12-31|Discontinued
+SUP035|PROD000761|SP-PRI-MAG-8692|Fuser|High quality fuser compatible with multiple printer models|183.37|CAD|KG|7|50|50|2025-08-20|2025-12-31|Discontinued
+SUP044|PROD000762|SP-PRI-BLA-4889|Circuit Board|High quality circuit board compatible with multiple printer models|246.83|USD|LB|29|5|5|2025-08-20|2025-12-31|Discontinued
+SUP013|PROD000763|SP-TON-PHO-4102|Memory|High quality memory compatible with multiple printer models|210.26|GBP|LT|51|10|50|2025-08-20|2025-12-31|Discontinued
+SUP022|PROD000764|SP-MOT-TRI-7859|Transfer Belt|High quality transfer belt compatible with multiple printer models|53.7|GBP|EA|38|5|1|2025-08-20|2025-12-31|Discontinued
+SUP015|PROD000765|SP-DRU-LIG-4492|Drum Unit|High quality drum unit compatible with multiple printer models|147.33|CAD|GAL|31|5|25|2025-08-20|2025-12-31|Active
+SUP001|PROD000766|SP-TRA-BLA-2208|Transfer Belt|High quality transfer belt compatible with multiple printer models|14.82|USD|SET|25|25|5|2025-08-20|2025-12-31|Discontinued
+SUP038|PROD000767|SP-TRA-BLA-1486|Drum Unit|High quality drum unit compatible with multiple printer models|64.15|EUR|SET|23|100|5|2025-08-20|2025-12-31|Inactive
+SUP036|PROD000768|SP-DRU-MAG-4211|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|253.8|USD|EA|60|100|5|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000769|SP-TON-PHO-4444|Fuser|High quality fuser compatible with multiple printer models|140.11|CAD|KG|49|5|50|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000770|SP-TON-CYA-3366|Print Head|High quality print head compatible with multiple printer models|239.69|EUR|LT|31|100|10|2025-08-20|2025-12-31|Inactive
+SUP039|PROD000771|SP-PAP-YEL-1756|Motor|High quality motor compatible with multiple printer models|178.66|CAD|SET|27|5|1|2025-08-20|2025-12-31|Discontinued
+SUP018|PROD000772|SP-PRI-LIG-4428|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|238.54|USD|SET|39|25|50|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000773|SP-CIR-LIG-3932|Transfer Belt|High quality transfer belt compatible with multiple printer models|215.46|GBP|GAL|38|25|10|2025-08-20|2025-12-31|Discontinued
+SUP026|PROD000774|SP-MOT-BLA-4394|Drum Unit|High quality drum unit compatible with multiple printer models|269.09|GBP|SET|32|5|10|2025-08-20|2025-12-31|Inactive
+SUP025|PROD000775|SP-MOT-MAG-7129|Fuser|High quality fuser compatible with multiple printer models|167.85|EUR|EA|25|25|50|2025-08-20|2025-12-31|Inactive
+SUP015|PROD000776|SP-MOT-BLA-8622|Circuit Board|High quality circuit board compatible with multiple printer models|188.6|GBP|LB|36|25|25|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000777|SP-TRA-TRI-7264|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|135.85|CAD|GAL|11|10|1|2025-08-20|2025-12-31|Inactive
+SUP033|PROD000778|SP-CIR-CYA-5528|Drum Unit|High quality drum unit compatible with multiple printer models|34.92|USD|KG|9|50|5|2025-08-20|2025-12-31|Inactive
+SUP013|PROD000779|SP-TRA-TRI-5959|Fuser|High quality fuser compatible with multiple printer models|62.04|EUR|GAL|54|50|10|2025-08-20|2025-12-31|Active
+SUP050|PROD000780|SP-FUS-TRI-6679|Paper Tray|High quality paper tray compatible with multiple printer models|284.06|USD|LB|48|50|5|2025-08-20|2025-12-31|Inactive
+SUP015|PROD000781|SP-DRU-YEL-8773|Drum Unit|High quality drum unit compatible with multiple printer models|157.64|GBP|GAL|59|25|10|2025-08-20|2025-12-31|Active
+SUP021|PROD000782|SP-DRU-LIG-7843|Drum Unit|High quality drum unit compatible with multiple printer models|134.96|USD|KG|15|50|5|2025-08-20|2025-12-31|Inactive
+SUP048|PROD000783|SP-INK-LIG-6810|Transfer Belt|High quality transfer belt compatible with multiple printer models|72.28|GBP|GAL|55|25|50|2025-08-20|2025-12-31|Inactive
+SUP021|PROD000784|SP-MOT-BLA-1527|Print Head|High quality print head compatible with multiple printer models|51.18|CAD|LT|47|50|50|2025-08-20|2025-12-31|Discontinued
+SUP026|PROD000785|SP-PAP-YEL-7400|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|61.36|USD|KG|43|25|10|2025-08-20|2025-12-31|Active
+SUP011|PROD000786|SP-TON-MAG-1525|Motor|High quality motor compatible with multiple printer models|149.64|EUR|SET|11|25|10|2025-08-20|2025-12-31|Active
+SUP015|PROD000787|SP-FUS-CYA-8449|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|158.44|EUR|KG|33|25|5|2025-08-20|2025-12-31|Active
+SUP009|PROD000788|SP-CIR-LIG-8835|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|286.79|EUR|SET|20|10|25|2025-08-20|2025-12-31|Discontinued
+SUP043|PROD000789|SP-MEM-MAG-6084|Motor|High quality motor compatible with multiple printer models|65.66|GBP|KG|19|1|5|2025-08-20|2025-12-31|Inactive
+SUP005|PROD000790|SP-PAP-YEL-9615|Transfer Belt|High quality transfer belt compatible with multiple printer models|273.62|GBP|LB|36|50|1|2025-08-20|2025-12-31|Discontinued
+SUP006|PROD000791|SP-FUS-LIG-6681|Fuser|High quality fuser compatible with multiple printer models|120.97|EUR|LB|22|5|50|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000792|SP-MEM-LIG-4005|Motor|High quality motor compatible with multiple printer models|34.08|USD|SET|17|10|50|2025-08-20|2025-12-31|Inactive
+SUP043|PROD000793|SP-TON-YEL-9085|Paper Tray|High quality paper tray compatible with multiple printer models|297.75|USD|KG|11|1|50|2025-08-20|2025-12-31|Inactive
+SUP027|PROD000794|SP-MEM-MAG-5141|Drum Unit|High quality drum unit compatible with multiple printer models|154.77|GBP|EA|11|100|25|2025-08-20|2025-12-31|Inactive
+SUP022|PROD000795|SP-PAP-YEL-7499|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|79.67|EUR|KG|49|100|25|2025-08-20|2025-12-31|Inactive
+SUP030|PROD000796|SP-TON-CYA-9985|Drum Unit|High quality drum unit compatible with multiple printer models|215.78|GBP|SET|37|10|5|2025-08-20|2025-12-31|Active
+SUP002|PROD000797|SP-MOT-CYA-3903|Fuser|High quality fuser compatible with multiple printer models|42.49|GBP|SET|11|100|1|2025-08-20|2025-12-31|Discontinued
+SUP018|PROD000798|SP-PRI-LIG-6866|Print Head|High quality print head compatible with multiple printer models|69.69|USD|GAL|41|5|25|2025-08-20|2025-12-31|Discontinued
+SUP004|PROD000799|SP-CIR-CYA-7399|Fuser|High quality fuser compatible with multiple printer models|136.52|USD|EA|56|25|5|2025-08-20|2025-12-31|Active
+SUP024|PROD000800|SP-DRU-YEL-2497|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|14.21|USD|KG|59|5|1|2025-08-20|2025-12-31|Active
+SUP007|PROD000801|SP-PRI-MAG-1721|Paper Tray|High quality paper tray compatible with multiple printer models|156.67|CAD|KG|42|100|5|2025-08-20|2025-12-31|Discontinued
+SUP014|PROD000802|SP-CIR-LIG-8010|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|68.84|CAD|KG|18|1|25|2025-08-20|2025-12-31|Discontinued
+SUP021|PROD000803|SP-INK-LIG-4485|Memory|High quality memory compatible with multiple printer models|70.7|CAD|GAL|46|10|1|2025-08-20|2025-12-31|Active
+SUP014|PROD000804|SP-PAP-TRI-9185|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|80.06|USD|LT|27|100|25|2025-08-20|2025-12-31|Discontinued
+SUP050|PROD000805|SP-PRI-PHO-3872|Transfer Belt|High quality transfer belt compatible with multiple printer models|293.53|GBP|EA|28|1|50|2025-08-20|2025-12-31|Discontinued
+SUP029|PROD000806|SP-PAP-YEL-9248|Motor|High quality motor compatible with multiple printer models|213.15|USD|SET|8|50|1|2025-08-20|2025-12-31|Inactive
+SUP016|PROD000807|SP-PAP-YEL-2300|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|116.1|CAD|SET|16|25|5|2025-08-20|2025-12-31|Discontinued
+SUP003|PROD000808|SP-DRU-LIG-6385|Print Head|High quality print head compatible with multiple printer models|87.76|USD|LT|57|25|10|2025-08-20|2025-12-31|Active
+SUP015|PROD000809|SP-TRA-PHO-4969|Drum Unit|High quality drum unit compatible with multiple printer models|164.55|EUR|GAL|51|100|5|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000810|SP-CIR-PHO-4007|Memory|High quality memory compatible with multiple printer models|191.15|USD|LB|11|5|1|2025-08-20|2025-12-31|Discontinued
+SUP010|PROD000811|SP-DRU-MAG-2503|Print Head|High quality print head compatible with multiple printer models|180.22|EUR|SET|39|1|25|2025-08-20|2025-12-31|Discontinued
+SUP030|PROD000812|SP-FUS-MAG-4236|Drum Unit|High quality drum unit compatible with multiple printer models|130.65|EUR|KG|25|50|25|2025-08-20|2025-12-31|Discontinued
+SUP013|PROD000813|SP-FUS-LIG-2310|Transfer Belt|High quality transfer belt compatible with multiple printer models|123.07|EUR|LB|35|25|50|2025-08-20|2025-12-31|Discontinued
+SUP048|PROD000814|SP-PAP-MAG-8897|Light Cyan Ink Cartridge|High quality light cyan ink cartridge compatible with multiple printer models|131.64|USD|KG|45|50|5|2025-08-20|2025-12-31|Discontinued
+SUP047|PROD000815|SP-PRI-TRI-7233|Memory|High quality memory compatible with multiple printer models|95.91|CAD|LB|42|50|25|2025-08-20|2025-12-31|Active
+SUP022|PROD000816|SP-PRI-LIG-4206|Print Head|High quality print head compatible with multiple printer models|275.33|USD|EA|39|100|10|2025-08-20|2025-12-31|Inactive
+SUP026|PROD000817|SP-PAP-LIG-7113|Paper Tray|High quality paper tray compatible with multiple printer models|149.92|USD|LB|9|1|25|2025-08-20|2025-12-31|Discontinued
+SUP011|PROD000818|SP-DRU-LIG-5182|Transfer Belt|High quality transfer belt compatible with multiple printer models|155.81|GBP|GAL|51|10|1|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000819|SP-PAP-YEL-4970|Memory|High quality memory compatible with multiple printer models|16.14|CAD|GAL|52|100|1|2025-08-20|2025-12-31|Discontinued
+SUP043|PROD000820|SP-PRI-TRI-8462|Print Head|High quality print head compatible with multiple printer models|80.75|EUR|EA|14|1|25|2025-08-20|2025-12-31|Inactive
+SUP046|PROD000821|SP-MOT-CYA-9495|Drum Unit|High quality drum unit compatible with multiple printer models|263.54|EUR|LB|23|100|10|2025-08-20|2025-12-31|Discontinued
+SUP035|PROD000822|SP-PAP-TRI-7743|Cyan Toner Cartridge|High quality cyan toner cartridge compatible with multiple printer models|193.03|CAD|SET|24|100|5|2025-08-20|2025-12-31|Discontinued
+SUP026|PROD000823|SP-FUS-BLA-3759|Memory|High quality memory compatible with multiple printer models|6.45|USD|GAL|33|50|25|2025-08-20|2025-12-31|Discontinued
+SUP019|PROD000824|SP-PAP-MAG-3890|Transfer Belt|High quality transfer belt compatible with multiple printer models|60.79|EUR|SET|38|5|50|2025-08-20|2025-12-31|Active
+SUP029|PROD000825|SP-MOT-YEL-4041|Drum Unit|High quality drum unit compatible with multiple printer models|23.33|EUR|SET|23|25|25|2025-08-20|2025-12-31|Discontinued
+SUP040|PROD000826|SP-TON-MAG-2307|Fuser|High quality fuser compatible with multiple printer models|31.19|USD|KG|11|10|1|2025-08-20|2025-12-31|Discontinued
+SUP016|PROD000827|SP-MEM-LIG-2651|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|84.22|USD|GAL|44|1|1|2025-08-20|2025-12-31|Active
+SUP034|PROD000828|SP-INK-LIG-9520|Fuser|High quality fuser compatible with multiple printer models|280.04|GBP|KG|45|25|10|2025-08-20|2025-12-31|Inactive
+SUP044|PROD000829|SP-TRA-PHO-4925|Transfer Belt|High quality transfer belt compatible with multiple printer models|201.52|GBP|LT|10|10|10|2025-08-20|2025-12-31|Active
+SUP001|PROD000830|SP-MEM-LIG-3275|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|261.48|CAD|GAL|55|5|10|2025-08-20|2025-12-31|Inactive
+SUP040|PROD000831|SP-MEM-LIG-4079|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|10.88|CAD|EA|58|100|10|2025-08-20|2025-12-31|Discontinued
+SUP029|PROD000832|SP-DRU-LIG-7556|Motor|High quality motor compatible with multiple printer models|239.41|CAD|LB|37|100|1|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000833|SP-FUS-YEL-3345|Circuit Board|High quality circuit board compatible with multiple printer models|263.6|USD|SET|38|1|10|2025-08-20|2025-12-31|Discontinued
+SUP036|PROD000834|SP-MEM-MAG-8311|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|200.81|EUR|SET|20|5|1|2025-08-20|2025-12-31|Active
+SUP028|PROD000835|SP-INK-MAG-6349|Paper Tray|High quality paper tray compatible with multiple printer models|231.28|EUR|GAL|23|100|25|2025-08-20|2025-12-31|Discontinued
+SUP008|PROD000836|SP-PRI-LIG-2481|Transfer Belt|High quality transfer belt compatible with multiple printer models|262.34|USD|GAL|28|25|25|2025-08-20|2025-12-31|Discontinued
+SUP042|PROD000837|SP-CIR-LIG-4823|Drum Unit|High quality drum unit compatible with multiple printer models|82.16|CAD|EA|14|1|10|2025-08-20|2025-12-31|Discontinued
+SUP038|PROD000838|SP-DRU-CYA-7025|Print Head|High quality print head compatible with multiple printer models|256.87|GBP|LT|54|1|10|2025-08-20|2025-12-31|Active
+SUP038|PROD000839|SP-CIR-YEL-7359|Paper Tray|High quality paper tray compatible with multiple printer models|99.97|CAD|GAL|57|5|50|2025-08-20|2025-12-31|Discontinued
+SUP039|PROD000840|SP-MOT-YEL-2746|Paper Tray|High quality paper tray compatible with multiple printer models|8.69|GBP|KG|16|10|5|2025-08-20|2025-12-31|Inactive
+SUP044|PROD000841|SP-MEM-MAG-5643|Print Head|High quality print head compatible with multiple printer models|225.63|USD|LT|27|10|50|2025-08-20|2025-12-31|Discontinued
+SUP008|PROD000842|SP-FUS-LIG-4534|Memory|High quality memory compatible with multiple printer models|91.69|GBP|EA|58|10|5|2025-08-20|2025-12-31|Discontinued
+SUP014|PROD000843|SP-DRU-BLA-3933|Memory|High quality memory compatible with multiple printer models|219.84|CAD|GAL|17|1|50|2025-08-20|2025-12-31|Inactive
+SUP022|PROD000844|SP-PAP-LIG-6706|Paper Tray|High quality paper tray compatible with multiple printer models|120.96|CAD|KG|51|5|50|2025-08-20|2025-12-31|Inactive
+SUP007|PROD000845|SP-PRI-PHO-1886|Fuser|High quality fuser compatible with multiple printer models|140.5|EUR|LT|15|25|25|2025-08-20|2025-12-31|Inactive
+SUP010|PROD000846|SP-DRU-YEL-4205|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|219.42|USD|GAL|57|5|25|2025-08-20|2025-12-31|Inactive
+SUP044|PROD000847|SP-PRI-BLA-2573|Transfer Belt|High quality transfer belt compatible with multiple printer models|292.39|EUR|EA|14|50|10|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000848|SP-PRI-LIG-5014|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|76.8|GBP|KG|51|50|5|2025-08-20|2025-12-31|Discontinued
+SUP048|PROD000849|SP-PAP-CYA-8596|Paper Tray|High quality paper tray compatible with multiple printer models|86.9|GBP|KG|7|1|1|2025-08-20|2025-12-31|Active
+SUP008|PROD000850|SP-MEM-YEL-1377|Motor|High quality motor compatible with multiple printer models|174.45|GBP|KG|51|100|1|2025-08-20|2025-12-31|Discontinued
+SUP012|PROD000851|SP-PAP-LIG-8105|Fuser|High quality fuser compatible with multiple printer models|173.99|USD|KG|11|100|50|2025-08-20|2025-12-31|Active
+SUP026|PROD000852|SP-INK-LIG-9788|Circuit Board|High quality circuit board compatible with multiple printer models|149.63|USD|SET|49|1|5|2025-08-20|2025-12-31|Discontinued
+SUP045|PROD000853|SP-PRI-BLA-8327|Transfer Belt|High quality transfer belt compatible with multiple printer models|42.17|EUR|LT|20|100|5|2025-08-20|2025-12-31|Active
+SUP036|PROD000854|SP-FUS-BLA-2386|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|112.88|EUR|LB|49|1|5|2025-08-20|2025-12-31|Inactive
+SUP003|PROD000855|SP-CIR-TRI-9750|Memory|High quality memory compatible with multiple printer models|47.11|GBP|GAL|27|50|10|2025-08-20|2025-12-31|Discontinued
+SUP035|PROD000856|SP-CIR-YEL-2622|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|16.79|EUR|KG|60|5|5|2025-08-20|2025-12-31|Discontinued
+SUP036|PROD000857|SP-DRU-PHO-5544|Print Head|High quality print head compatible with multiple printer models|220.35|GBP|EA|42|10|10|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000858|SP-PRI-LIG-8472|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|204.89|EUR|LT|20|1|10|2025-08-20|2025-12-31|Discontinued
+SUP045|PROD000859|SP-DRU-PHO-9379|Motor|High quality motor compatible with multiple printer models|54.22|EUR|KG|57|25|25|2025-08-20|2025-12-31|Active
+SUP039|PROD000860|SP-DRU-CYA-5425|Cyan Toner Cartridge|High quality cyan toner cartridge compatible with multiple printer models|207.08|GBP|EA|28|100|1|2025-08-20|2025-12-31|Inactive
+SUP022|PROD000861|SP-FUS-MAG-4698|Fuser|High quality fuser compatible with multiple printer models|8.89|GBP|SET|31|1|1|2025-08-20|2025-12-31|Active
+SUP034|PROD000862|SP-FUS-LIG-2565|Circuit Board|High quality circuit board compatible with multiple printer models|108.57|CAD|LT|24|50|1|2025-08-20|2025-12-31|Active
+SUP011|PROD000863|SP-TRA-LIG-3960|Transfer Belt|High quality transfer belt compatible with multiple printer models|242.98|GBP|LB|44|5|10|2025-08-20|2025-12-31|Active
+SUP044|PROD000864|SP-CIR-MAG-3070|Print Head|High quality print head compatible with multiple printer models|117.36|CAD|EA|53|100|10|2025-08-20|2025-12-31|Discontinued
+SUP050|PROD000865|SP-DRU-LIG-8500|Print Head|High quality print head compatible with multiple printer models|135.04|CAD|LB|39|10|10|2025-08-20|2025-12-31|Inactive
+SUP034|PROD000866|SP-DRU-TRI-2424|Fuser|High quality fuser compatible with multiple printer models|125.51|CAD|EA|47|1|1|2025-08-20|2025-12-31|Discontinued
+SUP016|PROD000867|SP-TON-MAG-1940|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|168.91|GBP|EA|34|100|50|2025-08-20|2025-12-31|Discontinued
+SUP009|PROD000868|SP-MEM-LIG-9437|Circuit Board|High quality circuit board compatible with multiple printer models|211.17|GBP|EA|46|5|1|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000869|SP-CIR-PHO-5001|Circuit Board|High quality circuit board compatible with multiple printer models|207.11|USD|LT|35|5|50|2025-08-20|2025-12-31|Active
+SUP012|PROD000870|SP-TON-PHO-3184|Circuit Board|High quality circuit board compatible with multiple printer models|109.86|USD|LB|38|25|5|2025-08-20|2025-12-31|Inactive
+SUP008|PROD000871|SP-TRA-YEL-9832|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|93.95|CAD|KG|20|1|50|2025-08-20|2025-12-31|Inactive
+SUP014|PROD000872|SP-FUS-BLA-8586|Motor|High quality motor compatible with multiple printer models|255.41|USD|KG|7|50|25|2025-08-20|2025-12-31|Inactive
+SUP020|PROD000873|SP-TRA-CYA-1084|Transfer Belt|High quality transfer belt compatible with multiple printer models|267.71|EUR|LB|29|1|1|2025-08-20|2025-12-31|Inactive
+SUP032|PROD000874|SP-DRU-CYA-9668|Circuit Board|High quality circuit board compatible with multiple printer models|270.15|GBP|EA|38|1|5|2025-08-20|2025-12-31|Discontinued
+SUP017|PROD000875|SP-DRU-LIG-7477|Transfer Belt|High quality transfer belt compatible with multiple printer models|93.98|GBP|SET|41|10|1|2025-08-20|2025-12-31|Inactive
+SUP043|PROD000876|SP-MEM-MAG-3291|Transfer Belt|High quality transfer belt compatible with multiple printer models|225.63|USD|KG|52|5|1|2025-08-20|2025-12-31|Active
+SUP019|PROD000877|SP-INK-MAG-7464|Paper Tray|High quality paper tray compatible with multiple printer models|224.7|USD|SET|49|5|25|2025-08-20|2025-12-31|Discontinued
+SUP018|PROD000878|SP-TON-LIG-9012|Circuit Board|High quality circuit board compatible with multiple printer models|151.69|EUR|KG|55|25|50|2025-08-20|2025-12-31|Discontinued
+SUP048|PROD000879|SP-PAP-MAG-2797|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|43.07|CAD|LT|7|100|5|2025-08-20|2025-12-31|Active
+SUP044|PROD000880|SP-TRA-LIG-1131|Paper Tray|High quality paper tray compatible with multiple printer models|147.17|CAD|LB|12|25|5|2025-08-20|2025-12-31|Discontinued
+SUP010|PROD000881|SP-CIR-MAG-5087|Fuser|High quality fuser compatible with multiple printer models|231.41|CAD|GAL|22|100|25|2025-08-20|2025-12-31|Active
+SUP031|PROD000882|SP-TON-MAG-4091|Motor|High quality motor compatible with multiple printer models|190.89|EUR|SET|14|5|25|2025-08-20|2025-12-31|Active
+SUP018|PROD000883|SP-DRU-MAG-7984|Yellow Ink Cartridge|High quality yellow ink cartridge compatible with multiple printer models|32.73|USD|LB|33|50|10|2025-08-20|2025-12-31|Discontinued
+SUP041|PROD000884|SP-DRU-YEL-6507|Paper Tray|High quality paper tray compatible with multiple printer models|146.87|GBP|GAL|10|10|1|2025-08-20|2025-12-31|Inactive
+SUP024|PROD000885|SP-FUS-PHO-7849|Drum Unit|High quality drum unit compatible with multiple printer models|100.02|USD|SET|9|1|1|2025-08-20|2025-12-31|Discontinued
+SUP048|PROD000886|SP-TRA-YEL-5674|Memory|High quality memory compatible with multiple printer models|88.36|USD|LB|18|10|25|2025-08-20|2025-12-31|Inactive
+SUP022|PROD000887|SP-FUS-CYA-2587|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|103.37|CAD|GAL|56|50|50|2025-08-20|2025-12-31|Discontinued
+SUP024|PROD000888|SP-DRU-TRI-4441|Motor|High quality motor compatible with multiple printer models|118.9|USD|SET|47|100|50|2025-08-20|2025-12-31|Active
+SUP003|PROD000889|SP-MOT-YEL-4160|Memory|High quality memory compatible with multiple printer models|278.09|USD|LT|46|10|10|2025-08-20|2025-12-31|Discontinued
+SUP031|PROD000890|SP-DRU-MAG-1717|Print Head|High quality print head compatible with multiple printer models|62.35|CAD|LT|29|10|25|2025-08-20|2025-12-31|Discontinued
+SUP046|PROD000891|SP-TON-LIG-2109|Memory|High quality memory compatible with multiple printer models|129.18|USD|SET|45|10|5|2025-08-20|2025-12-31|Inactive
+SUP003|PROD000892|SP-MOT-BLA-4116|Paper Tray|High quality paper tray compatible with multiple printer models|151.53|USD|SET|35|50|25|2025-08-20|2025-12-31|Discontinued
+SUP050|PROD000893|SP-PAP-LIG-5448|Drum Unit|High quality drum unit compatible with multiple printer models|60.11|EUR|LT|20|50|1|2025-08-20|2025-12-31|Discontinued
+SUP030|PROD000894|SP-CIR-TRI-5971|Drum Unit|High quality drum unit compatible with multiple printer models|93.12|CAD|LT|14|5|5|2025-08-20|2025-12-31|Active
+SUP035|PROD000895|SP-DRU-TRI-1640|Print Head|High quality print head compatible with multiple printer models|282.95|CAD|SET|24|1|5|2025-08-20|2025-12-31|Active
+SUP035|PROD000896|SP-TON-BLA-6692|Motor|High quality motor compatible with multiple printer models|291.82|CAD|EA|52|50|10|2025-08-20|2025-12-31|Discontinued
+SUP009|PROD000897|SP-PAP-TRI-6318|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|248.23|EUR|GAL|24|5|10|2025-08-20|2025-12-31|Active
+SUP035|PROD000898|SP-MOT-CYA-7258|Fuser|High quality fuser compatible with multiple printer models|261.78|EUR|LB|21|10|10|2025-08-20|2025-12-31|Active
+SUP038|PROD000899|SP-PAP-MAG-8308|Drum Unit|High quality drum unit compatible with multiple printer models|220.55|GBP|KG|16|25|1|2025-08-20|2025-12-31|Inactive
+SUP012|PROD000900|SP-MEM-MAG-3885|Drum Unit|High quality drum unit compatible with multiple printer models|173.47|EUR|GAL|25|1|10|2025-08-20|2025-12-31|Active
+SUP012|PROD000901|SP-PAP-YEL-2137|Print Head|High quality print head compatible with multiple printer models|27.17|EUR|LB|48|25|1|2025-08-20|2025-12-31|Discontinued
+SUP034|PROD000902|SP-PRI-BLA-2633|Paper Tray|High quality paper tray compatible with multiple printer models|118.88|USD|EA|55|100|1|2025-08-20|2025-12-31|Active
+SUP016|PROD000903|SP-TON-TRI-3336|Motor|High quality motor compatible with multiple printer models|9.96|USD|EA|41|100|10|2025-08-20|2025-12-31|Discontinued
+SUP006|PROD000904|SP-DRU-MAG-8871|Motor|High quality motor compatible with multiple printer models|268.35|EUR|KG|28|25|5|2025-08-20|2025-12-31|Active
+SUP004|PROD000905|SP-CIR-TRI-9906|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|248.52|USD|LT|25|1|50|2025-08-20|2025-12-31|Inactive
+SUP010|PROD000906|SP-INK-YEL-1393|Drum Unit|High quality drum unit compatible with multiple printer models|131.57|EUR|KG|48|10|5|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000907|SP-TON-LIG-3778|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|35.9|CAD|KG|11|50|10|2025-08-20|2025-12-31|Active
+SUP024|PROD000908|SP-TON-BLA-3475|Print Head|High quality print head compatible with multiple printer models|132.01|CAD|LT|18|100|25|2025-08-20|2025-12-31|Active
+SUP043|PROD000909|SP-FUS-TRI-6707|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|275.36|CAD|KG|58|100|1|2025-08-20|2025-12-31|Active
+SUP010|PROD000910|SP-PRI-PHO-3421|Paper Tray|High quality paper tray compatible with multiple printer models|137.32|GBP|EA|14|50|25|2025-08-20|2025-12-31|Discontinued
+SUP018|PROD000911|SP-PRI-CYA-6292|Print Head|High quality print head compatible with multiple printer models|59.46|GBP|KG|27|25|25|2025-08-20|2025-12-31|Inactive
+SUP045|PROD000912|SP-PAP-PHO-3264|Drum Unit|High quality drum unit compatible with multiple printer models|118.65|GBP|LT|41|25|50|2025-08-20|2025-12-31|Discontinued
+SUP015|PROD000913|SP-PAP-CYA-7911|Circuit Board|High quality circuit board compatible with multiple printer models|175.89|EUR|GAL|12|5|10|2025-08-20|2025-12-31|Active
+SUP014|PROD000914|SP-INK-PHO-8764|Print Head|High quality print head compatible with multiple printer models|276.74|USD|KG|30|5|10|2025-08-20|2025-12-31|Inactive
+SUP010|PROD000915|SP-CIR-LIG-4973|Drum Unit|High quality drum unit compatible with multiple printer models|249.37|USD|GAL|15|1|5|2025-08-20|2025-12-31|Inactive
+SUP047|PROD000916|SP-INK-LIG-7089|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|200.84|USD|LB|60|50|5|2025-08-20|2025-12-31|Active
+SUP010|PROD000917|SP-TRA-MAG-2294|Drum Unit|High quality drum unit compatible with multiple printer models|28.65|GBP|SET|55|5|25|2025-08-20|2025-12-31|Discontinued
+SUP009|PROD000918|SP-CIR-TRI-8703|Paper Tray|High quality paper tray compatible with multiple printer models|218.42|GBP|GAL|51|1|10|2025-08-20|2025-12-31|Active
+SUP010|PROD000919|SP-INK-BLA-3843|Circuit Board|High quality circuit board compatible with multiple printer models|53.13|GBP|LB|50|25|50|2025-08-20|2025-12-31|Discontinued
+SUP017|PROD000920|SP-MOT-TRI-4724|Paper Tray|High quality paper tray compatible with multiple printer models|279.84|CAD|EA|40|25|5|2025-08-20|2025-12-31|Discontinued
+SUP014|PROD000921|SP-PAP-BLA-4586|Paper Tray|High quality paper tray compatible with multiple printer models|60.0|USD|GAL|36|25|10|2025-08-20|2025-12-31|Discontinued
+SUP042|PROD000922|SP-PAP-LIG-3700|Photo Black Ink Cartridge|High quality photo black ink cartridge compatible with multiple printer models|196.1|EUR|KG|13|1|1|2025-08-20|2025-12-31|Inactive
+SUP039|PROD000923|SP-TRA-BLA-4924|Fuser|High quality fuser compatible with multiple printer models|53.84|USD|EA|20|50|1|2025-08-20|2025-12-31|Inactive
+SUP013|PROD000924|SP-CIR-YEL-1530|Drum Unit|High quality drum unit compatible with multiple printer models|85.13|USD|LT|57|25|1|2025-08-20|2025-12-31|Active
+SUP021|PROD000925|SP-TON-TRI-1138|Transfer Belt|High quality transfer belt compatible with multiple printer models|226.98|GBP|LT|19|10|25|2025-08-20|2025-12-31|Discontinued
+SUP023|PROD000926|SP-PRI-CYA-6428|Paper Tray|High quality paper tray compatible with multiple printer models|269.56|USD|LT|58|5|1|2025-08-20|2025-12-31|Discontinued
+SUP025|PROD000927|SP-MEM-BLA-5753|Print Head|High quality print head compatible with multiple printer models|50.54|GBP|EA|47|1|5|2025-08-20|2025-12-31|Active
+SUP044|PROD000928|SP-PRI-MAG-9218|Circuit Board|High quality circuit board compatible with multiple printer models|297.72|CAD|LB|57|5|10|2025-08-20|2025-12-31|Inactive
+SUP024|PROD000929|SP-MOT-LIG-1655|Paper Tray|High quality paper tray compatible with multiple printer models|76.29|USD|SET|43|100|25|2025-08-20|2025-12-31|Active
+SUP001|PROD000930|SP-PRI-TRI-9964|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|33.66|CAD|SET|25|5|1|2025-08-20|2025-12-31|Inactive
+SUP037|PROD000931|SP-TRA-PHO-2461|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|214.92|GBP|KG|37|10|25|2025-08-20|2025-12-31|Discontinued
+SUP009|PROD000932|SP-TON-LIG-1648|Transfer Belt|High quality transfer belt compatible with multiple printer models|258.54|GBP|LB|46|100|5|2025-08-20|2025-12-31|Inactive
+SUP024|PROD000933|SP-CIR-PHO-7122|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|154.74|CAD|GAL|9|50|1|2025-08-20|2025-12-31|Discontinued
+SUP016|PROD000934|SP-CIR-BLA-3532|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|116.48|GBP|EA|21|25|25|2025-08-20|2025-12-31|Discontinued
+SUP006|PROD000935|SP-TRA-LIG-8675|Circuit Board|High quality circuit board compatible with multiple printer models|270.63|GBP|EA|12|5|1|2025-08-20|2025-12-31|Inactive
+SUP050|PROD000936|SP-PAP-YEL-7578|Transfer Belt|High quality transfer belt compatible with multiple printer models|24.94|CAD|LT|38|5|25|2025-08-20|2025-12-31|Active
+SUP018|PROD000937|SP-MEM-BLA-9930|Print Head|High quality print head compatible with multiple printer models|284.86|EUR|GAL|20|10|50|2025-08-20|2025-12-31|Active
+SUP039|PROD000938|SP-PAP-BLA-6922|Paper Tray|High quality paper tray compatible with multiple printer models|293.69|EUR|EA|20|1|25|2025-08-20|2025-12-31|Inactive
+SUP017|PROD000939|SP-PRI-CYA-3322|Tri-Color Toner Cartridge|High quality tri-color toner cartridge compatible with multiple printer models|125.08|CAD|GAL|35|25|50|2025-08-20|2025-12-31|Active
+SUP043|PROD000940|SP-FUS-MAG-1880|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|106.54|CAD|SET|19|10|25|2025-08-20|2025-12-31|Inactive
+SUP031|PROD000941|SP-CIR-MAG-8156|Transfer Belt|High quality transfer belt compatible with multiple printer models|274.29|GBP|EA|42|50|5|2025-08-20|2025-12-31|Active
+SUP047|PROD000942|SP-MOT-MAG-6304|Transfer Belt|High quality transfer belt compatible with multiple printer models|10.16|GBP|SET|38|10|1|2025-08-20|2025-12-31|Discontinued
+SUP027|PROD000943|SP-FUS-BLA-8381|Print Head|High quality print head compatible with multiple printer models|192.47|USD|EA|20|100|5|2025-08-20|2025-12-31|Inactive
+SUP045|PROD000944|SP-CIR-MAG-7185|Drum Unit|High quality drum unit compatible with multiple printer models|108.33|EUR|GAL|43|1|10|2025-08-20|2025-12-31|Inactive
+SUP002|PROD000945|SP-FUS-TRI-9226|Light Magenta Toner Cartridge|High quality light magenta toner cartridge compatible with multiple printer models|196.77|GBP|LB|33|10|10|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000946|SP-CIR-PHO-2857|Print Head|High quality print head compatible with multiple printer models|140.88|CAD|SET|42|50|5|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000947|SP-PAP-TRI-8167|Fuser|High quality fuser compatible with multiple printer models|212.41|USD|EA|58|1|1|2025-08-20|2025-12-31|Discontinued
+SUP002|PROD000948|SP-MOT-LIG-2698|Memory|High quality memory compatible with multiple printer models|226.47|USD|GAL|35|50|50|2025-08-20|2025-12-31|Active
+SUP043|PROD000949|SP-FUS-LIG-4471|Drum Unit|High quality drum unit compatible with multiple printer models|234.39|GBP|EA|19|25|1|2025-08-20|2025-12-31|Inactive
+SUP030|PROD000950|SP-PAP-LIG-1124|Transfer Belt|High quality transfer belt compatible with multiple printer models|235.96|CAD|KG|49|10|10|2025-08-20|2025-12-31|Inactive
+SUP044|PROD000951|SP-DRU-BLA-7792|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|13.71|CAD|LT|59|100|50|2025-08-20|2025-12-31|Inactive
+SUP022|PROD000952|SP-PRI-LIG-4962|Circuit Board|High quality circuit board compatible with multiple printer models|292.2|EUR|LT|48|25|1|2025-08-20|2025-12-31|Discontinued
+SUP028|PROD000953|SP-PRI-LIG-3846|Paper Tray|High quality paper tray compatible with multiple printer models|271.82|EUR|LB|21|1|5|2025-08-20|2025-12-31|Discontinued
+SUP008|PROD000954|SP-MOT-LIG-5263|Circuit Board|High quality circuit board compatible with multiple printer models|52.75|CAD|SET|12|1|1|2025-08-20|2025-12-31|Inactive
+SUP001|PROD000955|SP-MOT-MAG-1455|Motor|High quality motor compatible with multiple printer models|214.02|USD|LT|31|1|5|2025-08-20|2025-12-31|Inactive
+SUP041|PROD000956|SP-TRA-MAG-4927|Drum Unit|High quality drum unit compatible with multiple printer models|93.29|EUR|GAL|56|25|10|2025-08-20|2025-12-31|Discontinued
+SUP004|PROD000957|SP-FUS-CYA-3355|Cyan Ink Cartridge|High quality cyan ink cartridge compatible with multiple printer models|38.6|USD|EA|16|10|10|2025-08-20|2025-12-31|Active
+SUP006|PROD000958|SP-TON-LIG-6921|Drum Unit|High quality drum unit compatible with multiple printer models|120.89|GBP|EA|33|1|25|2025-08-20|2025-12-31|Discontinued
+SUP005|PROD000959|SP-DRU-LIG-7148|Transfer Belt|High quality transfer belt compatible with multiple printer models|192.25|GBP|SET|18|10|1|2025-08-20|2025-12-31|Active
+SUP043|PROD000960|SP-MOT-BLA-2920|Transfer Belt|High quality transfer belt compatible with multiple printer models|298.15|GBP|LT|45|50|1|2025-08-20|2025-12-31|Active
+SUP034|PROD000961|SP-FUS-CYA-4159|Motor|High quality motor compatible with multiple printer models|14.68|USD|LT|39|5|5|2025-08-20|2025-12-31|Inactive
+SUP008|PROD000962|SP-DRU-BLA-6366|Print Head|High quality print head compatible with multiple printer models|70.6|EUR|KG|24|25|5|2025-08-20|2025-12-31|Active
+SUP023|PROD000963|SP-CIR-TRI-8652|Memory|High quality memory compatible with multiple printer models|134.19|GBP|SET|23|5|5|2025-08-20|2025-12-31|Discontinued
+SUP046|PROD000964|SP-FUS-LIG-2685|Motor|High quality motor compatible with multiple printer models|239.18|CAD|SET|57|5|25|2025-08-20|2025-12-31|Inactive
+SUP029|PROD000965|SP-PAP-TRI-6222|Motor|High quality motor compatible with multiple printer models|37.61|GBP|LB|19|50|10|2025-08-20|2025-12-31|Inactive
+SUP041|PROD000966|SP-TON-LIG-3740|Tri-Color Ink Cartridge|High quality tri-color ink cartridge compatible with multiple printer models|178.53|CAD|LT|59|100|50|2025-08-20|2025-12-31|Inactive
+SUP026|PROD000967|SP-INK-CYA-3947|Transfer Belt|High quality transfer belt compatible with multiple printer models|132.23|EUR|KG|22|1|5|2025-08-20|2025-12-31|Discontinued
+SUP024|PROD000968|SP-TRA-MAG-6151|Black Toner Cartridge|High quality black toner cartridge compatible with multiple printer models|99.66|USD|GAL|28|5|25|2025-08-20|2025-12-31|Discontinued
+SUP021|PROD000969|SP-DRU-CYA-7317|Fuser|High quality fuser compatible with multiple printer models|182.92|EUR|EA|42|10|50|2025-08-20|2025-12-31|Discontinued
+SUP005|PROD000970|SP-MOT-LIG-8130|Transfer Belt|High quality transfer belt compatible with multiple printer models|245.13|EUR|SET|10|25|25|2025-08-20|2025-12-31|Active
+SUP018|PROD000971|SP-PAP-CYA-3033|Memory|High quality memory compatible with multiple printer models|56.31|CAD|LT|31|5|50|2025-08-20|2025-12-31|Active
+SUP019|PROD000972|SP-INK-BLA-8565|Fuser|High quality fuser compatible with multiple printer models|44.52|GBP|EA|41|50|1|2025-08-20|2025-12-31|Inactive
+SUP042|PROD000973|SP-INK-CYA-8698|Light Cyan Toner Cartridge|High quality light cyan toner cartridge compatible with multiple printer models|218.63|CAD|KG|55|10|25|2025-08-20|2025-12-31|Active
+SUP036|PROD000974|SP-TRA-LIG-1771|Paper Tray|High quality paper tray compatible with multiple printer models|93.73|GBP|LB|48|1|10|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000975|SP-INK-YEL-1783|Magenta Ink Cartridge|High quality magenta ink cartridge compatible with multiple printer models|36.9|CAD|GAL|53|25|5|2025-08-20|2025-12-31|Active
+SUP006|PROD000976|SP-DRU-PHO-9807|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|82.34|USD|EA|10|10|1|2025-08-20|2025-12-31|Inactive
+SUP022|PROD000977|SP-MOT-LIG-5422|Print Head|High quality print head compatible with multiple printer models|277.9|GBP|EA|15|10|5|2025-08-20|2025-12-31|Discontinued
+SUP027|PROD000978|SP-MEM-CYA-9548|Circuit Board|High quality circuit board compatible with multiple printer models|76.7|GBP|GAL|38|10|10|2025-08-20|2025-12-31|Discontinued
+SUP031|PROD000979|SP-DRU-CYA-5322|Fuser|High quality fuser compatible with multiple printer models|215.14|CAD|LT|60|5|5|2025-08-20|2025-12-31|Discontinued
+SUP005|PROD000980|SP-TON-LIG-1987|Drum Unit|High quality drum unit compatible with multiple printer models|9.85|EUR|LB|59|25|5|2025-08-20|2025-12-31|Inactive
+SUP007|PROD000981|SP-TRA-YEL-9644|Circuit Board|High quality circuit board compatible with multiple printer models|258.38|CAD|GAL|36|100|5|2025-08-20|2025-12-31|Discontinued
+SUP007|PROD000982|SP-PRI-YEL-6957|Paper Tray|High quality paper tray compatible with multiple printer models|292.66|EUR|LB|19|1|10|2025-08-20|2025-12-31|Inactive
+SUP011|PROD000983|SP-FUS-CYA-3413|Memory|High quality memory compatible with multiple printer models|263.59|USD|SET|8|25|5|2025-08-20|2025-12-31|Inactive
+SUP002|PROD000984|SP-MEM-LIG-6766|Fuser|High quality fuser compatible with multiple printer models|40.78|USD|KG|34|5|5|2025-08-20|2025-12-31|Inactive
+SUP033|PROD000985|SP-PAP-PHO-1870|Memory|High quality memory compatible with multiple printer models|86.13|USD|EA|48|25|25|2025-08-20|2025-12-31|Active
+SUP019|PROD000986|SP-DRU-LIG-3894|Motor|High quality motor compatible with multiple printer models|87.11|GBP|LT|34|1|1|2025-08-20|2025-12-31|Discontinued
+SUP016|PROD000987|SP-TON-YEL-2887|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|175.11|EUR|EA|41|1|10|2025-08-20|2025-12-31|Active
+SUP040|PROD000988|SP-PAP-LIG-7437|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|221.76|CAD|LB|20|5|5|2025-08-20|2025-12-31|Inactive
+SUP041|PROD000989|SP-FUS-TRI-1050|Magenta Toner Cartridge|High quality magenta toner cartridge compatible with multiple printer models|153.94|GBP|GAL|26|100|5|2025-08-20|2025-12-31|Active
+SUP021|PROD000990|SP-TON-MAG-4069|Transfer Belt|High quality transfer belt compatible with multiple printer models|270.55|EUR|EA|49|25|25|2025-08-20|2025-12-31|Inactive
+SUP002|PROD000991|SP-PRI-TRI-2261|Print Head|High quality print head compatible with multiple printer models|205.68|USD|LT|29|25|50|2025-08-20|2025-12-31|Active
+SUP032|PROD000992|SP-DRU-LIG-2792|Black Ink Cartridge|High quality black ink cartridge compatible with multiple printer models|172.77|CAD|SET|40|50|5|2025-08-20|2025-12-31|Active
+SUP050|PROD000993|SP-TON-CYA-5990|Transfer Belt|High quality transfer belt compatible with multiple printer models|139.06|CAD|LT|23|100|25|2025-08-20|2025-12-31|Inactive
+SUP024|PROD000994|SP-MEM-BLA-6777|Fuser|High quality fuser compatible with multiple printer models|214.78|GBP|EA|24|100|50|2025-08-20|2025-12-31|Discontinued
+SUP041|PROD000995|SP-INK-MAG-7722|Drum Unit|High quality drum unit compatible with multiple printer models|199.84|EUR|KG|38|1|5|2025-08-20|2025-12-31|Discontinued
+SUP048|PROD000996|SP-PAP-PHO-4380|Yellow Toner Cartridge|High quality yellow toner cartridge compatible with multiple printer models|276.66|GBP|GAL|13|10|50|2025-08-20|2025-12-31|Inactive
+SUP034|PROD000997|SP-PRI-TRI-6715|Transfer Belt|High quality transfer belt compatible with multiple printer models|120.95|GBP|KG|26|5|1|2025-08-20|2025-12-31|Discontinued
+SUP034|PROD000998|SP-TRA-CYA-8101|Memory|High quality memory compatible with multiple printer models|172.59|CAD|KG|14|1|25|2025-08-20|2025-12-31|Discontinued
+SUP010|PROD000999|SP-MEM-MAG-9571|Fuser|High quality fuser compatible with multiple printer models|189.39|EUR|KG|38|10|1|2025-08-20|2025-12-31|Inactive
+SUP001|PROD001000|SP-MEM-BLA-4560|Fuser|High quality fuser compatible with multiple printer models|248.68|USD|EA|38|10|1|2025-08-20|2025-12-31|Inactive
