@@ -1,0 +1,296 @@
+
+# ============================================
+# SSIS PROJECT ARCHITECTURE AND COMPONENTS
+# PrintTech Manufacturing Supply Chain Management
+# ============================================
+
+## PROJECT STRUCTURE
+
+PrintTech_SupplyChain_SSIS/
+├── Connection Managers/
+│   ├── PrintTech_DB.conmgr (SQL Server Database)
+│   ├── Supplier_FTP.conmgr (FTP Connection)
+│   ├── FileSystem_Source.conmgr (File System)
+│   ├── Email_Server.conmgr (SMTP)
+│   └── WebService_API.conmgr (HTTP/REST APIs)
+├── Packages/
+│   ├── Master_Control.dtsx (Main orchestration package)
+│   ├── Load_Supplier_Data.dtsx
+│   ├── Load_Manufacturing_Data.dtsx
+│   ├── Load_Inventory_Data.dtsx
+│   ├── Load_Sales_Data.dtsx
+│   ├── Load_Logistics_Data.dtsx
+│   ├── Data_Quality_Check.dtsx
+│   ├── Generate_Reports.dtsx
+│   └── Error_Handler.dtsx
+├── Project Parameters/
+│   ├── SourceFileDirectory
+│   ├── ArchiveDirectory
+│   ├── ErrorDirectory
+│   ├── DatabaseConnectionString
+│   └── EmailRecipients
+└── Configurations/
+    ├── Development.dtsConfig
+    ├── Testing.dtsConfig
+    └── Production.dtsConfig
+
+## SSIS COMPONENTS USED
+
+### Control Flow Components:
+
+1. **Sequence Container**
+   - Groups related tasks for better organization
+   - Used in each package to group data loading steps
+
+2. **For Each Loop Container** 
+   - Iterates through files in source directories
+   - Processes multiple files of same type
+
+3. **Data Flow Task**
+   - Core component for ETL operations
+   - Contains sources, transformations, destinations
+
+4. **Execute SQL Task**
+   - Pre/post processing SQL commands
+   - Data validation and cleanup
+   - Trigger stored procedures
+
+5. **File System Task**
+   - Move processed files to archive
+   - Clean up temporary files
+   - Create directories
+
+6. **Send Mail Task**
+   - Error notifications
+   - Success confirmations
+   - Daily processing reports
+
+7. **Script Task**
+   - Custom logic for complex business rules
+   - Dynamic file naming
+   - API calls
+
+### Data Flow Components:
+
+#### Sources:
+- **Flat File Source**: CSV, TXT files
+- **Excel Source**: Excel files from suppliers
+- **XML Source**: XML invoices and messages
+- **OLE DB Source**: Database queries
+- **Web Service Task**: REST API data
+
+#### Transformations:
+- **Data Conversion**: Convert data types
+- **Derived Column**: Calculate new columns
+- **Conditional Split**: Route data based on conditions
+- **Lookup**: Validate against reference data
+- **Aggregate**: Sum, count, average calculations
+- **Sort**: Order data for merge operations
+- **Merge Join**: Combine data from multiple sources
+- **Union All**: Combine similar data streams
+- **Slowly Changing Dimension**: Handle dimension updates
+- **Row Count**: Track record counts
+
+#### Destinations:
+- **OLE DB Destination**: Load to SQL Server tables
+- **Flat File Destination**: Export processed data
+- **Excel Destination**: Create reports
+
+### Connection Managers:
+
+1. **OLE DB Connection Manager**
+   - SQL Server database connections
+   - Connection string: "Data Source=SQLSERVER01;Initial Catalog=PrintTech_SupplyChain;Integrated Security=SSPI;"
+
+2. **Flat File Connection Managers**
+   - Supplier_Catalog.csv
+   - Purchase_Orders.txt  
+   - Sales_Orders.csv
+   - Inventory_Levels.csv
+   - (One for each file type)
+
+3. **FTP Connection Manager**
+   - Connect to supplier FTP servers
+   - Download daily data files
+
+4. **SMTP Connection Manager**
+   - Email notifications
+   - Error alerts and reports
+
+## PACKAGE DETAILS
+
+### 1. Master_Control.dtsx (Main Orchestration Package)
+
+**Purpose**: Controls the execution sequence of all ETL processes
+
+**Control Flow**:
+```
+Start
+├── Execute Package Task: Data_Quality_Check.dtsx
+├── Sequence Container: Load Master Data
+│   ├── Execute Package Task: Load_Supplier_Data.dtsx
+│   └── Execute Package Task: Load Customer data (part of sales)
+├── Sequence Container: Load Transactional Data
+│   ├── Execute Package Task: Load_Manufacturing_Data.dtsx
+│   ├── Execute Package Task: Load_Inventory_Data.dtsx
+│   ├── Execute Package Task: Load_Sales_Data.dtsx
+│   └── Execute Package Task: Load_Logistics_Data.dtsx
+├── Execute Package Task: Generate_Reports.dtsx
+├── Send Mail Task: Success Notification
+└── End
+```
+
+**Error Handling**:
+- On any failure, execute Error_Handler.dtsx
+- Send email notifications
+- Log errors to database table
+
+### 2. Load_Supplier_Data.dtsx
+
+**Purpose**: Process supplier-related data files
+
+**Control Flow**:
+```
+Start
+├── For Each Loop Container: Process Supplier Files
+│   ├── Variable: FileName (maps to current file)
+│   ├── Data Flow Task: Load Supplier Catalog
+│   ├── Data Flow Task: Load Purchase Orders
+│   ├── Data Flow Task: Load Invoices
+│   └── File System Task: Archive Processed Files
+└── Execute SQL Task: Update Supplier Performance Metrics
+```
+
+**Data Flow - Load Supplier Catalog**:
+```
+Flat File Source (Supplier_Catalog_YYYYMMDD.csv)
+├── Data Conversion (Convert dates, decimals)
+├── Derived Column (Add ProcessDate, IsActive)
+├── Lookup (Validate SupplierCode exists)
+├── Conditional Split (New vs Existing products)
+│   ├── [New Products] → OLE DB Destination (Products table)
+│   └── [Updates] → OLE DB Command (Update Products)
+└── Row Count (Log processing statistics)
+```
+
+### 3. Load_Manufacturing_Data.dtsx
+
+**Purpose**: Process manufacturing and production data
+
+**Data Flow Components Used**:
+- **Flat File Source**: Production_Schedule.csv
+- **JSON Source**: Equipment_Status.json (via Script Component)
+- **Data Conversion**: Convert numeric and date fields
+- **Lookup**: Validate ProductCodes, WorkCenters
+- **Derived Column**: Calculate efficiency metrics
+- **Aggregate**: Summarize production by work center
+- **Union All**: Combine different data streams
+- **Slowly Changing Dimension**: Update product specifications
+
+### 4. Load_Inventory_Data.dtsx
+
+**Purpose**: Process inventory movements and levels
+
+**Special Components**:
+- **Merge Join**: Combine current levels with transactions
+- **Script Component**: Calculate running balances
+- **Conditional Split**: Route by transaction type
+- **Error Output**: Handle negative inventory situations
+
+### 5. Load_Sales_Data.dtsx 
+
+**Purpose**: Process customer orders and sales data
+
+**Data Flow Features**:
+- **XML Source**: Process XML order files
+- **Lookup**: Customer and product validation
+- **Derived Column**: Calculate line totals, taxes
+- **Data Quality**: Address standardization
+- **Conditional Split**: Route by order priority
+
+## ERROR HANDLING STRATEGY
+
+### Package Level:
+- **OnError Event Handler**: Capture package failures
+- **OnTaskFailed Event Handler**: Log task-specific errors
+- **OnWarning Event Handler**: Log warnings
+
+### Data Flow Level:
+- **Error Outputs**: Redirect bad rows to error tables
+- **Row Count**: Validate expected vs actual record counts
+- **Data Viewers**: Debug data quality issues (development)
+
+### Logging Configuration:
+- **SSIS Catalog**: Execution logging (SQL Server 2012+)
+- **Windows Event Log**: System-level errors
+- **Custom Logging**: Business rule violations
+- **Email Alerts**: Critical errors and failures
+
+## CONFIGURATION MANAGEMENT
+
+### Project Parameters:
+- **SourceFileDirectory**: "/Data/Inbound/"
+- **ArchiveDirectory**: "/Data/Archive/"
+- **ErrorDirectory**: "/Data/Error/"
+- **EmailRecipients**: "admin@printtech.com;manager@printtech.com"
+- **RetryAttempts**: 3
+- **CommandTimeout**: 300
+
+### Environment Variables (SSIS Catalog):
+- **Development Environment**:
+  - DB Server: DEV-SQL01
+  - File Path: D:\SSIS\Dev\Data\
+  - Email: dev-team@printtech.com
+
+- **Production Environment**:
+  - DB Server: PROD-SQL01
+  - File Path: E:\SSIS\Prod\Data\
+  - Email: operations@printtech.com
+
+### Package Configurations (Legacy):
+- **XML Configuration Files**: Store connection strings
+- **SQL Server Configurations**: Environment-specific settings
+- **Environment Variables**: Server names, file paths
+
+## DEPLOYMENT MODEL
+
+### Project Deployment (Recommended):
+- **Integration Services Catalog (SSISDB)**
+- **Environment Management**
+- **Project-level parameters**
+- **Built-in logging and monitoring**
+
+### Deployment Steps:
+1. Build project in SQL Server Data Tools (SSDT)
+2. Generate .ispac deployment file
+3. Deploy to SSIS Catalog using:
+   - SQL Server Management Studio
+   - Integration Services Deployment Wizard
+   - PowerShell scripts
+
+### Scheduling:
+- **SQL Server Agent Jobs**
+- **Master_Control package**: Daily at 2:00 AM
+- **Individual packages**: On-demand or triggered
+
+## MONITORING AND MAINTENANCE
+
+### Performance Monitoring:
+- **Execution Reports**: SSIS Catalog reports
+- **Custom Dashboard**: Package execution metrics
+- **Performance Counters**: SSIS pipeline performance
+- **SQL Profiler**: Database performance impact
+
+### Data Quality Monitoring:
+- **Row Count Validations**: Source vs destination
+- **Data Profiling**: Check data distributions
+- **Business Rule Validations**: Custom quality checks
+- **Exception Reports**: Failed records analysis
+
+### Maintenance Tasks:
+- **Archive Old Files**: Automated cleanup
+- **Database Maintenance**: Index rebuilds, statistics updates
+- **Log Cleanup**: SSIS execution logs
+- **Backup**: Package deployment files
+
+This architecture provides a robust, scalable solution for managing PrintTech Manufacturing's supply chain data integration requirements using SSIS.
